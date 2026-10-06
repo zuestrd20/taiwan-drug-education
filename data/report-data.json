@@ -1,0 +1,4731 @@
+{
+  "metadata": {
+    "title": "台灣30年毒品趨勢與教育報告",
+    "period": "1996–2025",
+    "checked": "2026-10-06",
+    "missing": "null與空白代表未取得或不適用，並非零"
+  },
+  "charts": [
+    {
+      "id": "convictions_1996_2025",
+      "title": "1996–2025年執行毒品案件裁判確定有罪人數",
+      "unit": "人（司法行政統計計數）",
+      "coverage": "全國檢察機關；各曆年全年；1996–2025",
+      "definition": "各級法院裁判確定有罪後移送檢察機關執行的人數；含施用、製造、販賣、運輸、持有等毒品罪。1998年前含肅清煙毒條例及麻醉藥品管理條例。",
+      "limitations": "不是吸毒人口，也不是當年首次用毒人數；不得把30年加總當成不同個體。 1998年處遇制度改變及2020年修法、最高法院刑事大法庭裁定會改變定罪與觀察勒戒流向。 歷史表件按最新取得版本串接，並保留逐年來源。2021年早期資料為12,914人，後來法務統計已修訂為12,913人，此處採後者。",
+      "sources": [
+        "conv1996_2005",
+        "conv2006_2015",
+        "conv2016_2019_cprc",
+        "moj2024conv",
+        "moj2025conv",
+        "conv2020_moj2024dec"
+      ],
+      "data": [
+        {
+          "year": 1996,
+          "value": 26572,
+          "sources": [
+            "conv1996_2005"
+          ]
+        },
+        {
+          "year": 1997,
+          "value": 32095,
+          "sources": [
+            "conv1996_2005"
+          ]
+        },
+        {
+          "year": 1998,
+          "value": 20026,
+          "sources": [
+            "conv1996_2005"
+          ]
+        },
+        {
+          "year": 1999,
+          "value": 8391,
+          "sources": [
+            "conv1996_2005"
+          ]
+        },
+        {
+          "year": 2000,
+          "value": 13191,
+          "sources": [
+            "conv1996_2005"
+          ]
+        },
+        {
+          "year": 2001,
+          "value": 13511,
+          "sources": [
+            "conv1996_2005"
+          ]
+        },
+        {
+          "year": 2002,
+          "value": 11856,
+          "sources": [
+            "conv1996_2005"
+          ]
+        },
+        {
+          "year": 2003,
+          "value": 12677,
+          "sources": [
+            "conv1996_2005"
+          ]
+        },
+        {
+          "year": 2004,
+          "value": 14640,
+          "sources": [
+            "conv1996_2005"
+          ]
+        },
+        {
+          "year": 2005,
+          "value": 22540,
+          "sources": [
+            "conv1996_2005"
+          ]
+        },
+        {
+          "year": 2006,
+          "value": 24545,
+          "sources": [
+            "conv2006_2015"
+          ]
+        },
+        {
+          "year": 2007,
+          "value": 27199,
+          "sources": [
+            "conv2006_2015"
+          ]
+        },
+        {
+          "year": 2008,
+          "value": 41120,
+          "sources": [
+            "conv2006_2015"
+          ]
+        },
+        {
+          "year": 2009,
+          "value": 36758,
+          "sources": [
+            "conv2006_2015"
+          ]
+        },
+        {
+          "year": 2010,
+          "value": 35460,
+          "sources": [
+            "conv2006_2015"
+          ]
+        },
+        {
+          "year": 2011,
+          "value": 36440,
+          "sources": [
+            "conv2006_2015"
+          ]
+        },
+        {
+          "year": 2012,
+          "value": 36410,
+          "sources": [
+            "conv2006_2015"
+          ]
+        },
+        {
+          "year": 2013,
+          "value": 36096,
+          "sources": [
+            "conv2006_2015"
+          ]
+        },
+        {
+          "year": 2014,
+          "value": 34672,
+          "sources": [
+            "conv2006_2015"
+          ]
+        },
+        {
+          "year": 2015,
+          "value": 35960,
+          "sources": [
+            "conv2006_2015"
+          ]
+        },
+        {
+          "year": 2016,
+          "value": 40625,
+          "sources": [
+            "conv2016_2019_cprc"
+          ]
+        },
+        {
+          "year": 2017,
+          "value": 43281,
+          "sources": [
+            "conv2016_2019_cprc"
+          ]
+        },
+        {
+          "year": 2018,
+          "value": 44541,
+          "sources": [
+            "conv2016_2019_cprc"
+          ]
+        },
+        {
+          "year": 2019,
+          "value": 42218,
+          "sources": [
+            "conv2016_2019_cprc"
+          ]
+        },
+        {
+          "year": 2020,
+          "value": 33031,
+          "sources": [
+            "conv2020_moj2024dec"
+          ]
+        },
+        {
+          "year": 2021,
+          "value": 12913,
+          "sources": [
+            "moj2024conv"
+          ]
+        },
+        {
+          "year": 2022,
+          "value": 13439,
+          "sources": [
+            "moj2024conv"
+          ]
+        },
+        {
+          "year": 2023,
+          "value": 18368,
+          "sources": [
+            "moj2024conv"
+          ]
+        },
+        {
+          "year": 2024,
+          "value": 21870,
+          "sources": [
+            "moj2024conv"
+          ]
+        },
+        {
+          "year": 2025,
+          "value": 18113,
+          "sources": [
+            "moj2025conv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "police_detected_2003_2025",
+      "title": "2003–2025年警察查獲毒品嫌疑犯",
+      "unit": "人（逐案計數，非年度唯一人數）",
+      "coverage": "全國警察機關刑事查緝；2003–2025各完整曆年；不含三、四級毒品行政罰案件",
+      "definition": "同一人不同案件可能重複計數；刑事嫌疑人包括施用以外的持有、製造、販賣、運輸等。",
+      "limitations": "不等於使用者總數；升降受查緝強度、鑑驗能力、法令與列管級別影響。 2020-06-19起未滿12歲兒童不列入刑事統計。 重量為警政署系列，不能與法務部跨機關純質淨重直接混接。 2024年初步發布37,000多人的若干數字與年度定案略有差異，這裡採年度表37,854。 2015原始年度表各級嫌疑犯數加總53,647，與總計53,622不符25人；各欄照錄來源，未自行更改。若畫分級堆疊圖應排除此年或明示不一致；主圖可用總計。",
+      "sources": [
+        "npa2003_2010",
+        "npa2011_2025",
+        "npa2014_2026",
+        "npa2025analysis"
+      ],
+      "data": [
+        {
+          "year": 2003,
+          "value": 28921,
+          "sources": [
+            "npa2003_2010"
+          ]
+        },
+        {
+          "year": 2004,
+          "value": 40136,
+          "sources": [
+            "npa2003_2010"
+          ]
+        },
+        {
+          "year": 2005,
+          "value": 51376,
+          "sources": [
+            "npa2003_2010"
+          ]
+        },
+        {
+          "year": 2006,
+          "value": 47257,
+          "sources": [
+            "npa2003_2010"
+          ]
+        },
+        {
+          "year": 2007,
+          "value": 53681,
+          "sources": [
+            "npa2003_2010"
+          ]
+        },
+        {
+          "year": 2008,
+          "value": 52762,
+          "sources": [
+            "npa2003_2010"
+          ]
+        },
+        {
+          "year": 2009,
+          "value": 47400,
+          "sources": [
+            "npa2003_2010"
+          ]
+        },
+        {
+          "year": 2010,
+          "value": 51078,
+          "sources": [
+            "npa2003_2010"
+          ]
+        },
+        {
+          "year": 2011,
+          "value": 48875,
+          "sources": [
+            "npa2011_2025"
+          ]
+        },
+        {
+          "year": 2012,
+          "value": 47043,
+          "sources": [
+            "npa2011_2025"
+          ]
+        },
+        {
+          "year": 2013,
+          "value": 43268,
+          "sources": [
+            "npa2011_2025"
+          ]
+        },
+        {
+          "year": 2014,
+          "value": 41265,
+          "sources": [
+            "npa2014_2026"
+          ]
+        },
+        {
+          "year": 2015,
+          "value": 53622,
+          "sources": [
+            "npa2014_2026"
+          ]
+        },
+        {
+          "year": 2016,
+          "value": 58707,
+          "sources": [
+            "npa2014_2026"
+          ]
+        },
+        {
+          "year": 2017,
+          "value": 62644,
+          "sources": [
+            "npa2014_2026"
+          ]
+        },
+        {
+          "year": 2018,
+          "value": 59106,
+          "sources": [
+            "npa2014_2026"
+          ]
+        },
+        {
+          "year": 2019,
+          "value": 49131,
+          "sources": [
+            "npa2014_2026"
+          ]
+        },
+        {
+          "year": 2020,
+          "value": 47779,
+          "sources": [
+            "npa2014_2026"
+          ]
+        },
+        {
+          "year": 2021,
+          "value": 40987,
+          "sources": [
+            "npa2014_2026"
+          ]
+        },
+        {
+          "year": 2022,
+          "value": 39964,
+          "sources": [
+            "npa2014_2026"
+          ]
+        },
+        {
+          "year": 2023,
+          "value": 38292,
+          "sources": [
+            "npa2014_2026"
+          ]
+        },
+        {
+          "year": 2024,
+          "value": 37854,
+          "sources": [
+            "npa2014_2026"
+          ]
+        },
+        {
+          "year": 2025,
+          "value": 47322,
+          "sources": [
+            "npa2014_2026"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nps_related_deaths_2012_2025",
+      "title": "2012–2025年法醫檢體檢出NPS相關死亡案件",
+      "unit": "件",
+      "coverage": "全國各地檢署相驗或解剖送驗案件；不含單獨使用愷他命者",
+      "definition": "死者檢體檢出新興影響精神物質(NPS)的案件。",
+      "limitations": "檢出不代表該藥物就是死因，可能包括交通事故、墜樓、他殺等。 不是臺灣全部藥物過量死亡；也不能與國外overdose死亡統計直接比。 檢驗品項與新物質出現會影響趨勢。",
+      "sources": [
+        "moj115"
+      ],
+      "data": [
+        {
+          "year": 2012,
+          "value": 10,
+          "sources": [
+            "moj115"
+          ]
+        },
+        {
+          "year": 2013,
+          "value": 12,
+          "sources": [
+            "moj115"
+          ]
+        },
+        {
+          "year": 2014,
+          "value": 29,
+          "sources": [
+            "moj115"
+          ]
+        },
+        {
+          "year": 2015,
+          "value": 87,
+          "sources": [
+            "moj115"
+          ]
+        },
+        {
+          "year": 2016,
+          "value": 66,
+          "sources": [
+            "moj115"
+          ]
+        },
+        {
+          "year": 2017,
+          "value": 100,
+          "sources": [
+            "moj115"
+          ]
+        },
+        {
+          "year": 2018,
+          "value": 45,
+          "sources": [
+            "moj115"
+          ]
+        },
+        {
+          "year": 2019,
+          "value": 84,
+          "sources": [
+            "moj115"
+          ]
+        },
+        {
+          "year": 2020,
+          "value": 143,
+          "sources": [
+            "moj115"
+          ]
+        },
+        {
+          "year": 2021,
+          "value": 85,
+          "sources": [
+            "moj115"
+          ]
+        },
+        {
+          "year": 2022,
+          "value": 52,
+          "sources": [
+            "moj115"
+          ]
+        },
+        {
+          "year": 2023,
+          "value": 68,
+          "sources": [
+            "moj115"
+          ]
+        },
+        {
+          "year": 2024,
+          "value": 77,
+          "sources": [
+            "moj115"
+          ]
+        },
+        {
+          "year": 2025,
+          "value": 151,
+          "sources": [
+            "moj115"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "medical_heroin",
+      "title": "醫療院所通報：海洛因",
+      "unit": "人次（藥物品項）",
+      "coverage": "臺灣地區醫療院所通報，不含監所受戒治人；2015–2025全年；2025屬月報累計初步資料",
+      "definition": "醫療通報接觸到的個案及其藥物品項，不是一般人口隨機抽樣。 報告中的藥物百分比以通報個案件數為分母，因此同人多藥可合計超過100%；本資料只列原始數值",
+      "limitations": "同個案可通報多種藥物，藥物人次不可加總為人數。 不能和含民間戒癮團體、衛生單位的「各機關構」年報合併，例如2024年各機關構與醫療院所數值不同。 通報量會受機構涵蓋、求助與補報影響；2022年突降不可直接解讀為全人口用毒減半。 2025-12開始將依托咪酯等自NPS表移入本表，分類有調整。原表依托咪酯220比6的增幅印為13.0%，算術不一致，本資料只保留人次不採該增幅。 2022年起通報規則改為首次就診或規律回診使用不同藥物等情形，以避免重複計算；2022前後不可當成完全相同口徑的趨勢。",
+      "sources": [
+        "fda2025medical",
+        "fda2024annual"
+      ],
+      "data": [
+        {
+          "year": 2015,
+          "value": 11697,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2016,
+          "value": 14036,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2017,
+          "value": 16062,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2018,
+          "value": 16565,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2019,
+          "value": 16981,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2020,
+          "value": 14816,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2021,
+          "value": 15574,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2022,
+          "value": 7699,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2023,
+          "value": 6412,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2024,
+          "value": 3986,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2025,
+          "value": 3484,
+          "sources": [
+            "fda2025medical"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "medical_amphetamine_methamphetamine",
+      "title": "醫療院所通報：（甲基）安非他命",
+      "unit": "人次（藥物品項）",
+      "coverage": "臺灣地區醫療院所通報，不含監所受戒治人；2015–2025全年；2025屬月報累計初步資料",
+      "definition": "醫療通報接觸到的個案及其藥物品項，不是一般人口隨機抽樣。 報告中的藥物百分比以通報個案件數為分母，因此同人多藥可合計超過100%；本資料只列原始數值",
+      "limitations": "同個案可通報多種藥物，藥物人次不可加總為人數。 不能和含民間戒癮團體、衛生單位的「各機關構」年報合併，例如2024年各機關構與醫療院所數值不同。 通報量會受機構涵蓋、求助與補報影響；2022年突降不可直接解讀為全人口用毒減半。 2025-12開始將依托咪酯等自NPS表移入本表，分類有調整。原表依托咪酯220比6的增幅印為13.0%，算術不一致，本資料只保留人次不採該增幅。 2022年起通報規則改為首次就診或規律回診使用不同藥物等情形，以避免重複計算；2022前後不可當成完全相同口徑的趨勢。",
+      "sources": [
+        "fda2025medical",
+        "fda2024annual"
+      ],
+      "data": [
+        {
+          "year": 2015,
+          "value": 5672,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2016,
+          "value": 6587,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2017,
+          "value": 8914,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2018,
+          "value": 13618,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2019,
+          "value": 13038,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2020,
+          "value": 10290,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2021,
+          "value": 12598,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2022,
+          "value": 5241,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2023,
+          "value": 5511,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2024,
+          "value": 4363,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2025,
+          "value": 4460,
+          "sources": [
+            "fda2025medical"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "medical_ketamine",
+      "title": "醫療院所通報：愷他命",
+      "unit": "人次（藥物品項）",
+      "coverage": "臺灣地區醫療院所通報，不含監所受戒治人；2015–2025全年；2025屬月報累計初步資料",
+      "definition": "醫療通報接觸到的個案及其藥物品項，不是一般人口隨機抽樣。 報告中的藥物百分比以通報個案件數為分母，因此同人多藥可合計超過100%；本資料只列原始數值",
+      "limitations": "同個案可通報多種藥物，藥物人次不可加總為人數。 不能和含民間戒癮團體、衛生單位的「各機關構」年報合併，例如2024年各機關構與醫療院所數值不同。 通報量會受機構涵蓋、求助與補報影響；2022年突降不可直接解讀為全人口用毒減半。 2025-12開始將依托咪酯等自NPS表移入本表，分類有調整。原表依托咪酯220比6的增幅印為13.0%，算術不一致，本資料只保留人次不採該增幅。 2022年起通報規則改為首次就診或規律回診使用不同藥物等情形，以避免重複計算；2022前後不可當成完全相同口徑的趨勢。",
+      "sources": [
+        "fda2025medical",
+        "fda2024annual"
+      ],
+      "data": [
+        {
+          "year": 2015,
+          "value": 1556,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2016,
+          "value": 2904,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2017,
+          "value": 1547,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2018,
+          "value": 1796,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2019,
+          "value": 1760,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2020,
+          "value": 921,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2021,
+          "value": 709,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2022,
+          "value": 446,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2023,
+          "value": 506,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2024,
+          "value": 428,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2025,
+          "value": 410,
+          "sources": [
+            "fda2025medical"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "medical_cannabis",
+      "title": "醫療院所通報：大麻",
+      "unit": "人次（藥物品項）",
+      "coverage": "臺灣地區醫療院所通報，不含監所受戒治人；2015–2025全年；2025屬月報累計初步資料",
+      "definition": "醫療通報接觸到的個案及其藥物品項，不是一般人口隨機抽樣。 報告中的藥物百分比以通報個案件數為分母，因此同人多藥可合計超過100%；本資料只列原始數值",
+      "limitations": "同個案可通報多種藥物，藥物人次不可加總為人數。 不能和含民間戒癮團體、衛生單位的「各機關構」年報合併，例如2024年各機關構與醫療院所數值不同。 通報量會受機構涵蓋、求助與補報影響；2022年突降不可直接解讀為全人口用毒減半。 2025-12開始將依托咪酯等自NPS表移入本表，分類有調整。原表依托咪酯220比6的增幅印為13.0%，算術不一致，本資料只保留人次不採該增幅。 2022年起通報規則改為首次就診或規律回診使用不同藥物等情形，以避免重複計算；2022前後不可當成完全相同口徑的趨勢。",
+      "sources": [
+        "fda2025medical",
+        "fda2024annual"
+      ],
+      "data": [
+        {
+          "year": 2015,
+          "value": 114,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2016,
+          "value": 179,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2017,
+          "value": 200,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2018,
+          "value": 399,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2019,
+          "value": 592,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2020,
+          "value": 620,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2021,
+          "value": 500,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2022,
+          "value": 312,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2023,
+          "value": 355,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2024,
+          "value": 517,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2025,
+          "value": 474,
+          "sources": [
+            "fda2025medical"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "medical_mdma",
+      "title": "醫療院所通報：MDMA",
+      "unit": "人次（藥物品項）",
+      "coverage": "臺灣地區醫療院所通報，不含監所受戒治人；2015–2025全年；2025屬月報累計初步資料",
+      "definition": "醫療通報接觸到的個案及其藥物品項，不是一般人口隨機抽樣。 報告中的藥物百分比以通報個案件數為分母，因此同人多藥可合計超過100%；本資料只列原始數值",
+      "limitations": "同個案可通報多種藥物，藥物人次不可加總為人數。 不能和含民間戒癮團體、衛生單位的「各機關構」年報合併，例如2024年各機關構與醫療院所數值不同。 通報量會受機構涵蓋、求助與補報影響；2022年突降不可直接解讀為全人口用毒減半。 2025-12開始將依托咪酯等自NPS表移入本表，分類有調整。原表依托咪酯220比6的增幅印為13.0%，算術不一致，本資料只保留人次不採該增幅。 2022年起通報規則改為首次就診或規律回診使用不同藥物等情形，以避免重複計算；2022前後不可當成完全相同口徑的趨勢。",
+      "sources": [
+        "fda2025medical",
+        "fda2024annual"
+      ],
+      "data": [
+        {
+          "year": 2015,
+          "value": 624,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2016,
+          "value": 730,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2017,
+          "value": 539,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2018,
+          "value": 762,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2019,
+          "value": 801,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2020,
+          "value": 378,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2021,
+          "value": 373,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2022,
+          "value": 179,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2023,
+          "value": 143,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2024,
+          "value": 129,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2025,
+          "value": 144,
+          "sources": [
+            "fda2025medical"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "medical_benzodiazepines",
+      "title": "醫療院所通報：苯二氮平類",
+      "unit": "人次（藥物品項）",
+      "coverage": "臺灣地區醫療院所通報，不含監所受戒治人；2015–2025全年；2025屬月報累計初步資料",
+      "definition": "醫療通報接觸到的個案及其藥物品項，不是一般人口隨機抽樣。 報告中的藥物百分比以通報個案件數為分母，因此同人多藥可合計超過100%；本資料只列原始數值",
+      "limitations": "同個案可通報多種藥物，藥物人次不可加總為人數。 不能和含民間戒癮團體、衛生單位的「各機關構」年報合併，例如2024年各機關構與醫療院所數值不同。 通報量會受機構涵蓋、求助與補報影響；2022年突降不可直接解讀為全人口用毒減半。 2025-12開始將依托咪酯等自NPS表移入本表，分類有調整。原表依托咪酯220比6的增幅印為13.0%，算術不一致，本資料只保留人次不採該增幅。 2022年起通報規則改為首次就診或規律回診使用不同藥物等情形，以避免重複計算；2022前後不可當成完全相同口徑的趨勢。",
+      "sources": [
+        "fda2025medical",
+        "fda2024annual"
+      ],
+      "data": [
+        {
+          "year": 2015,
+          "value": 611,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2016,
+          "value": 787,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2017,
+          "value": 698,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2018,
+          "value": 317,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2019,
+          "value": 289,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2020,
+          "value": 598,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2021,
+          "value": 1276,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2022,
+          "value": 1433,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2023,
+          "value": 2240,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2024,
+          "value": 1035,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2025,
+          "value": 700,
+          "sources": [
+            "fda2025medical"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "medical_case_reports",
+      "title": "醫療院所通報：通報個案件數",
+      "unit": "件",
+      "coverage": "臺灣地區醫療院所通報，不含監所受戒治人；2015–2025全年；2025屬月報累計初步資料",
+      "definition": "醫療通報接觸到的個案及其藥物品項，不是一般人口隨機抽樣。 報告中的藥物百分比以通報個案件數為分母，因此同人多藥可合計超過100%；本資料只列原始數值",
+      "limitations": "同個案可通報多種藥物，藥物人次不可加總為人數。 不能和含民間戒癮團體、衛生單位的「各機關構」年報合併，例如2024年各機關構與醫療院所數值不同。 通報量會受機構涵蓋、求助與補報影響；2022年突降不可直接解讀為全人口用毒減半。 2025-12開始將依托咪酯等自NPS表移入本表，分類有調整。原表依托咪酯220比6的增幅印為13.0%，算術不一致，本資料只保留人次不採該增幅。 2022年起通報規則改為首次就診或規律回診使用不同藥物等情形，以避免重複計算；2022前後不可當成完全相同口徑的趨勢。",
+      "sources": [
+        "fda2025medical",
+        "fda2024annual"
+      ],
+      "data": [
+        {
+          "year": 2015,
+          "value": 18399,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2016,
+          "value": 22412,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2017,
+          "value": 26215,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2018,
+          "value": 29597,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2019,
+          "value": 28630,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2020,
+          "value": 25452,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2021,
+          "value": 28785,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2022,
+          "value": 14741,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2023,
+          "value": 12585,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2024,
+          "value": 10233,
+          "sources": [
+            "fda2025medical"
+          ]
+        },
+        {
+          "year": 2025,
+          "value": 9270,
+          "sources": [
+            "fda2025medical"
+          ]
+        }
+      ]
+    }
+  ],
+  "taiwan": {
+    "metadata": {
+      "title": "臺灣毒品統計：1996–2025主體／2026另列",
+      "checked_date": "2026-10-06",
+      "status": "final_verified",
+      "language": "zh-TW",
+      "calendar": "西元年；附民國年時以西元減1911",
+      "missing_value_policy": "未取得或不能比較之數值保持缺漏，不推估、不補零",
+      "validation": [
+        "30個連續完整年度定罪數字，1996–2025無缺年",
+        "23個連續完整年度警察查獲數字，2003–2025無缺年",
+        "2025警察年齡層加總47,322，與總數一致",
+        "警察分級加總除2015官方原表差25之外，與總数一致",
+        "2012–2025 NPS死亡相關案件14年已渲染原始PDF圖2-2逐點核對",
+        "非尿液前5名圖的未入榜0已轉為null",
+        "2016–2020定罪與法務統計年報40–41頁核對",
+        "2025定罪與115年1月法務統計摘要表5-4核對"
+      ]
+    },
+    "sources": {
+      "conv1996_2005": {
+        "title": "94年犯罪狀況及其分析",
+        "publisher": "法務部",
+        "url": "https://www.moj.gov.tw/media/3604/71917545894.pdf?mediaDL=true",
+        "table": "表1-2-1／1-2-1-1 各級法院檢察署執行判決確定有罪人數",
+        "page": "PDF第20–21頁，書面第12–13頁",
+        "checked_date": "2026-10-06"
+      },
+      "conv2006_2015": {
+        "title": "104年犯罪狀況及其分析",
+        "publisher": "法務部",
+        "url": "https://www.moj.gov.tw/media/6784/711216353562.pdf?mediaDL=true",
+        "table": "表2-2-3 地方法院檢察署執行裁判確定有罪主要罪名",
+        "page": "書面113頁／PDF第141頁",
+        "checked_date": "2026-10-06"
+      },
+      "moj2024conv": {
+        "title": "法務統計摘要114年1月",
+        "publisher": "法務部統計處",
+        "url": "https://www.rjsd.moj.gov.tw/rjsdweb/book/Book_File.ashx?chapter_id=671_16_3",
+        "table": "表5-4 執行毒品案件裁判確定有罪人數",
+        "page": "獨立表5-4",
+        "checked_date": "2026-10-06"
+      },
+      "moj2025conv": {
+        "title": "法務統計摘要115年1月",
+        "publisher": "法務部統計處",
+        "url": "https://www.rjsd.moj.gov.tw/RJSDWeb/book/Book_File.ashx?book_id=716_4",
+        "table": "表5-4 執行毒品案件裁判確定有罪人數",
+        "page": "書面16頁／PDF第17頁",
+        "checked_date": "2026-10-06"
+      },
+      "npa2003_2010": {
+        "title": "內政統計通報100年第38週",
+        "publisher": "內政部統計處（資料：警政署）",
+        "url": "https://ws.moi.gov.tw/001/Upload/OldFile/site_node_file/5942/week10038.pdf",
+        "table": "表二 警察機關查獲毒品案件；表三 查獲毒品嫌疑犯人數",
+        "page": "第2–3頁",
+        "checked_date": "2026-10-06"
+      },
+      "npa2011_2025": {
+        "title": "警察機關查獲毒品概況（年度表）",
+        "publisher": "內政部警政署",
+        "url": "https://www.npa.gov.tw/ch/app/data/doc?detailNo=816231262132924416&module=wg063&type=s",
+        "table": "警察機關查獲毒品概況",
+        "page": "第1頁",
+        "checked_date": "2026-10-06"
+      },
+      "npa2014_2026": {
+        "title": "警察機關查獲毒品概況（含115年1–8月）",
+        "publisher": "內政部警政署",
+        "url": "https://www.npa.gov.tw/ch/app/data/doc?detailNo=816231387114795008&module=wg063&type=s",
+        "table": "警察機關查獲毒品概況",
+        "page": "第1頁",
+        "checked_date": "2026-10-06"
+      },
+      "npa2025analysis": {
+        "title": "警政統計通報115年第28週：114年警察機關查緝毒品概況",
+        "publisher": "內政部警政署統計室",
+        "published_date": "2026-07-08",
+        "url": "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/90830D5C-1D93-4B54-883F-C2823857EE73/resource/6BC10535-8828-4C07-AC94-707CAB3369DD/download",
+        "landing_url": "https://data.gov.tw/dataset/177986",
+        "table": "表1–7",
+        "page": "第1–8頁",
+        "checked_date": "2026-10-06"
+      },
+      "fda2025medical": {
+        "title": "藥物濫用案件暨檢驗統計資料【114年12月】",
+        "publisher": "衛生福利部／食品藥物管理署",
+        "table_date": "2026-02-28",
+        "url": "https://antidrug.moj.gov.tw/dl-3305-40e601ea-e527-4ac6-aa05-17b4fb057dba.html",
+        "landing_url": "https://antidrug.moj.gov.tw/lp-89-2.html",
+        "table": "表三 臺灣地區醫療院所通報藥物濫用者使用藥物之種類分布統計表",
+        "page": "書面第71頁",
+        "checked_date": "2026-10-06"
+      },
+      "fda2024annual": {
+        "title": "113年藥物濫用案件暨檢驗統計資料年報",
+        "publisher": "衛生福利部／食品藥物管理署",
+        "url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f638841168466181342&iid=13295&type=3",
+        "table": "表一、表二及圖一、圖二",
+        "page": "書面第4–8頁",
+        "checked_date": "2026-10-06"
+      },
+      "survey2014": {
+        "title": "103年全國物質使用調查結果報告",
+        "publisher": "衛生福利部食品藥物管理署／國立臺灣大學",
+        "url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f636694209301561800&iid=10072&type=3",
+        "table": "摘要及討論、非法藥物使用",
+        "page": "摘要書面第2頁／PDF第7頁；討論書面48頁／PDF第53頁",
+        "checked_date": "2026-10-06"
+      },
+      "survey2018": {
+        "title": "107年全國物質使用調查結果報告",
+        "publisher": "衛生福利部食品藥物管理署／國立臺灣大學",
+        "url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637616988367725887&iid=11814",
+        "table": "摘要；表6.1；表6.3；表7.1；表10.1",
+        "page": "書面第1–3、46、48、51、66頁；PDF頁碼加7",
+        "checked_date": "2026-10-06"
+      },
+      "survey2023plan": {
+        "title": "全國物質使用調查摘要表 A480B112",
+        "publisher": "行政院主計總處／衛生福利部",
+        "url": "https://enterprise.dgbas.gov.tw/STATSVY/Set/STATSVY/brief/A480B112.htm",
+        "table": "調查沿革、範圍與對象、抽樣方法",
+        "page": "網頁",
+        "checked_date": "2026-10-06"
+      },
+      "moj115": {
+        "title": "115年毒品統計彙編（列印版）",
+        "publisher": "法務部（跨部會統計彙整）",
+        "published_date": "2026-09-10",
+        "url": "https://antidrug.moj.gov.tw/dl-3344-074fde0a-caea-4eb5-9679-76a301128758.html",
+        "landing_url": "https://antidrug.moj.gov.tw/cp-1252-9775-2.html",
+        "table": "圖2-2、表3-1、表3-3、圖4-1等",
+        "page": "各圖表另列",
+        "checked_date": "2026-10-06"
+      },
+      "etomidate2026": {
+        "title": "依托咪酯正式升列第一級毒品",
+        "publisher": "內政部警政署刑事警察局",
+        "published_date": "2026-06-29",
+        "url": "https://www.npa.gov.tw/ch/app/news/view?id=2139&module=news&serno=cb212c20-f31b-4844-9943-541fefd25bb4",
+        "table": "公告內文",
+        "page": "網頁",
+        "checked_date": "2026-10-06"
+      },
+      "survey2005note": {
+        "title": "新興毒品監測機制及先驅化學品管制對策（行政院毒品防制會報第4次專案報告）",
+        "publisher": "行政院衛生署食品藥物管理局",
+        "url": "https://www.fda.gov.tw/upload/133/%E6%A0%B8%E5%AE%9A_%E7%AC%AC4%E6%AC%A1%E9%98%B2%E6%AF%92%E7%B5%84%E5%B0%88%E6%A1%88%E5%A0%B1%E5%91%8A%E5%85%A7%E5%AE%B9990112_1.pdf",
+        "page": "書面6–7頁／PDF第6–7頁",
+        "table": "（三）監測調查研究計畫；表4",
+        "checked_date": "2026-10-06"
+      },
+      "history1998": {
+        "title": "犯罪狀況及其分析：毒品犯罪與勒戒經驗",
+        "publisher": "法務部司法官學院犯罪防治研究中心",
+        "url": "https://www.cprc.moj.gov.tw/media/8831/44251475339.pdf?mediaDL=true",
+        "page": "書面265頁",
+        "table": "（一）毒品犯罪與勒戒經驗",
+        "checked_date": "2026-10-06"
+      },
+      "ketamine2002": {
+        "title": "管制藥品管理條例相關法規暨解釋彙編（100年1月）",
+        "publisher": "行政院衛生署食品藥物管理局",
+        "url": "https://www.fda.gov.tw/tc/includes/getfile.ashx?id=f636694195825790139",
+        "page": "書面80–81頁",
+        "table": "92年7月11日管證字第0920005399號函",
+        "checked_date": "2026-10-06"
+      },
+      "nonurinechart": {
+        "title": "105年至114年非尿液檢驗排名前5項成分統計",
+        "publisher": "法務部反毒大本營／食藥署",
+        "url": "https://antidrug.moj.gov.tw/Public/Charts/38/53-fbc527edc4354dba99b8605eedc6eafc.html",
+        "landing_url": "https://antidrug.moj.gov.tw/sp-cmcp-53-38-2.html",
+        "page": "互動圖資料",
+        "table": "非尿液檢驗排名前5項成分統計",
+        "checked_date": "2026-10-06"
+      },
+      "conv2016_2019_cprc": {
+        "title": "108年犯罪狀況及其分析：第四篇數據",
+        "publisher": "法務部司法官學院",
+        "url": "https://www.cprc.moj.gov.tw/media/15468/4-1-%E7%AC%AC%E5%9B%9B%E7%AF%87-%E6%95%B8%E6%93%9A.pdf?mediaDL=true",
+        "locator": "PDF第13頁表4-3-1；第14頁表4-3-2，105–108年度",
+        "published": "108年度資料",
+        "checked_date": "2026-10-06"
+      },
+      "survey2005nhri": {
+        "title": "國家衛生研究院電子報：台灣精神作用性物質的現況",
+        "publisher": "國家衛生研究院",
+        "url": "https://enewse.nhri.edu.tw/jenews_ViewMore.php?indx=8121",
+        "locator": "非法藥物第1段；2005調查12–64歲終生盛行率1.2%",
+        "published": "2010-11-11",
+        "checked_date": "2026-10-06"
+      },
+      "conv2020_moj2024dec": {
+        "title": "法務統計摘要113年12月",
+        "publisher": "法務部統計處",
+        "url": "https://www.rjsd.moj.gov.tw/rjsdweb/book/Book_File.ashx?book_id=666_4",
+        "published": "2025-01-16編製",
+        "locator": "PDF第17頁／書面16頁，表5-4，109年總計33,031",
+        "checked_date": "2026-10-06"
+      }
+    },
+    "series": {
+      "convictions_1996_2025": {
+        "title": "1996–2025年執行毒品案件裁判確定有罪人數",
+        "unit": "人（司法行政統計計數）",
+        "denominator": "不適用：人數而非盛行率",
+        "coverage": "全國檢察機關；各曆年全年；1996–2025",
+        "definition": "各級法院裁判確定有罪後移送檢察機關執行的人數；含施用、製造、販賣、運輸、持有等毒品罪。1998年前含肅清煙毒條例及麻醉藥品管理條例。",
+        "limitations": [
+          "不是吸毒人口，也不是當年首次用毒人數；不得把30年加總當成不同個體。",
+          "1998年處遇制度改變及2020年修法、最高法院刑事大法庭裁定會改變定罪與觀察勒戒流向。",
+          "歷史表件按最新取得版本串接，並保留逐年來源。2021年早期資料為12,914人，後來法務統計已修訂為12,913人，此處採後者。"
+        ],
+        "source_ids": [
+          "conv1996_2005",
+          "conv2006_2015",
+          "conv2016_2019_cprc",
+          "moj2024conv",
+          "moj2025conv",
+          "conv2020_moj2024dec"
+        ],
+        "data": [
+          {
+            "year": 1996,
+            "roc_year": 85,
+            "value": 26572,
+            "source_id": "conv1996_2005"
+          },
+          {
+            "year": 1997,
+            "roc_year": 86,
+            "value": 32095,
+            "source_id": "conv1996_2005"
+          },
+          {
+            "year": 1998,
+            "roc_year": 87,
+            "value": 20026,
+            "source_id": "conv1996_2005"
+          },
+          {
+            "year": 1999,
+            "roc_year": 88,
+            "value": 8391,
+            "source_id": "conv1996_2005"
+          },
+          {
+            "year": 2000,
+            "roc_year": 89,
+            "value": 13191,
+            "source_id": "conv1996_2005"
+          },
+          {
+            "year": 2001,
+            "roc_year": 90,
+            "value": 13511,
+            "source_id": "conv1996_2005"
+          },
+          {
+            "year": 2002,
+            "roc_year": 91,
+            "value": 11856,
+            "source_id": "conv1996_2005"
+          },
+          {
+            "year": 2003,
+            "roc_year": 92,
+            "value": 12677,
+            "source_id": "conv1996_2005"
+          },
+          {
+            "year": 2004,
+            "roc_year": 93,
+            "value": 14640,
+            "source_id": "conv1996_2005"
+          },
+          {
+            "year": 2005,
+            "roc_year": 94,
+            "value": 22540,
+            "source_id": "conv1996_2005"
+          },
+          {
+            "year": 2006,
+            "roc_year": 95,
+            "value": 24545,
+            "source_id": "conv2006_2015"
+          },
+          {
+            "year": 2007,
+            "roc_year": 96,
+            "value": 27199,
+            "source_id": "conv2006_2015"
+          },
+          {
+            "year": 2008,
+            "roc_year": 97,
+            "value": 41120,
+            "source_id": "conv2006_2015"
+          },
+          {
+            "year": 2009,
+            "roc_year": 98,
+            "value": 36758,
+            "source_id": "conv2006_2015"
+          },
+          {
+            "year": 2010,
+            "roc_year": 99,
+            "value": 35460,
+            "source_id": "conv2006_2015"
+          },
+          {
+            "year": 2011,
+            "roc_year": 100,
+            "value": 36440,
+            "source_id": "conv2006_2015"
+          },
+          {
+            "year": 2012,
+            "roc_year": 101,
+            "value": 36410,
+            "source_id": "conv2006_2015"
+          },
+          {
+            "year": 2013,
+            "roc_year": 102,
+            "value": 36096,
+            "source_id": "conv2006_2015"
+          },
+          {
+            "year": 2014,
+            "roc_year": 103,
+            "value": 34672,
+            "source_id": "conv2006_2015"
+          },
+          {
+            "year": 2015,
+            "roc_year": 104,
+            "value": 35960,
+            "source_id": "conv2006_2015"
+          },
+          {
+            "year": 2016,
+            "roc_year": 105,
+            "value": 40625,
+            "source_id": "conv2016_2019_cprc"
+          },
+          {
+            "year": 2017,
+            "roc_year": 106,
+            "value": 43281,
+            "source_id": "conv2016_2019_cprc"
+          },
+          {
+            "year": 2018,
+            "roc_year": 107,
+            "value": 44541,
+            "source_id": "conv2016_2019_cprc"
+          },
+          {
+            "year": 2019,
+            "roc_year": 108,
+            "value": 42218,
+            "source_id": "conv2016_2019_cprc"
+          },
+          {
+            "year": 2020,
+            "roc_year": 109,
+            "value": 33031,
+            "source_id": "conv2020_moj2024dec"
+          },
+          {
+            "year": 2021,
+            "roc_year": 110,
+            "value": 12913,
+            "source_id": "moj2024conv"
+          },
+          {
+            "year": 2022,
+            "roc_year": 111,
+            "value": 13439,
+            "source_id": "moj2024conv"
+          },
+          {
+            "year": 2023,
+            "roc_year": 112,
+            "value": 18368,
+            "source_id": "moj2024conv"
+          },
+          {
+            "year": 2024,
+            "roc_year": 113,
+            "value": 21870,
+            "source_id": "moj2024conv"
+          },
+          {
+            "year": 2025,
+            "roc_year": 114,
+            "value": 18113,
+            "source_id": "moj2025conv"
+          }
+        ],
+        "checked_date": "2026-10-06"
+      },
+      "police_detected_2003_2025": {
+        "title": "2003–2025年警察機關查獲毒品嫌疑犯及案件",
+        "unit": "嫌疑犯：人（逐案計數，非年度唯一人數）；案件：件",
+        "denominator": "不適用：查獲數；未除以人口",
+        "coverage": "全國警察機關刑事查緝；2003–2025各完整曆年；不含三、四級毒品行政罰案件",
+        "definition": "同一人不同案件可能重複計數；刑事嫌疑人包括施用以外的持有、製造、販賣、運輸等。",
+        "limitations": [
+          "不等於使用者總數；升降受查緝強度、鑑驗能力、法令與列管級別影響。",
+          "2020-06-19起未滿12歲兒童不列入刑事統計。",
+          "重量為警政署系列，不能與法務部跨機關純質淨重直接混接。",
+          "2024年初步發布37,000多人的若干數字與年度定案略有差異，這裡採年度表37,854。",
+          "2015原始年度表各級嫌疑犯數加總53,647，與總計53,622不符25人；各欄照錄來源，未自行更改。若畫分級堆疊圖應排除此年或明示不一致；主圖可用總計。"
+        ],
+        "source_ids": [
+          "npa2003_2010",
+          "npa2011_2025",
+          "npa2014_2026",
+          "npa2025analysis"
+        ],
+        "data": [
+          {
+            "year": 2003,
+            "roc_year": 92,
+            "value": 28921,
+            "cases": 25480,
+            "juveniles_12_17": 783,
+            "adults_18_23": 5702,
+            "source_id": "npa2003_2010"
+          },
+          {
+            "year": 2004,
+            "roc_year": 93,
+            "value": 40136,
+            "cases": 37347,
+            "juveniles_12_17": 712,
+            "adults_18_23": 6065,
+            "source_id": "npa2003_2010"
+          },
+          {
+            "year": 2005,
+            "roc_year": 94,
+            "value": 51376,
+            "cases": 49452,
+            "juveniles_12_17": 645,
+            "adults_18_23": 6111,
+            "source_id": "npa2003_2010"
+          },
+          {
+            "year": 2006,
+            "roc_year": 95,
+            "value": 47257,
+            "cases": 45405,
+            "juveniles_12_17": 518,
+            "adults_18_23": 4488,
+            "source_id": "npa2003_2010"
+          },
+          {
+            "year": 2007,
+            "roc_year": 96,
+            "value": 53681,
+            "cases": 52835,
+            "juveniles_12_17": 602,
+            "adults_18_23": 4688,
+            "source_id": "npa2003_2010"
+          },
+          {
+            "year": 2008,
+            "roc_year": 97,
+            "value": 52762,
+            "cases": 52457,
+            "juveniles_12_17": 607,
+            "adults_18_23": 3971,
+            "source_id": "npa2003_2010"
+          },
+          {
+            "year": 2009,
+            "roc_year": 98,
+            "value": 47400,
+            "cases": 44913,
+            "juveniles_12_17": 843,
+            "adults_18_23": 4355,
+            "source_id": "npa2003_2010"
+          },
+          {
+            "year": 2010,
+            "roc_year": 99,
+            "value": 51078,
+            "cases": 48318,
+            "juveniles_12_17": 1213,
+            "adults_18_23": 5640,
+            "source_id": "npa2003_2010"
+          },
+          {
+            "year": 2011,
+            "roc_year": 100,
+            "value": 48875,
+            "cases": 45999,
+            "juveniles_12_17": 1317,
+            "adults_18_23": 5787,
+            "class1": 18361,
+            "class2": 28550,
+            "class3": 1916,
+            "class4_other": 48,
+            "source_id": "npa2011_2025"
+          },
+          {
+            "year": 2012,
+            "roc_year": 101,
+            "value": 47043,
+            "cases": 44001,
+            "juveniles_12_17": 1655,
+            "adults_18_23": 5908,
+            "class1": 16488,
+            "class2": 27682,
+            "class3": 2716,
+            "class4_other": 157,
+            "source_id": "npa2011_2025"
+          },
+          {
+            "year": 2013,
+            "roc_year": 102,
+            "value": 43268,
+            "cases": 40130,
+            "juveniles_12_17": 1519,
+            "adults_18_23": 5972,
+            "class1": 13320,
+            "class2": 26555,
+            "class3": 3317,
+            "class4_other": 76,
+            "source_id": "npa2011_2025"
+          },
+          {
+            "year": 2014,
+            "roc_year": 103,
+            "value": 41265,
+            "cases": 38369,
+            "juveniles_12_17": 1381,
+            "adults_18_23": 5280,
+            "police_weight_kg": 6712.48,
+            "class1": 12129,
+            "class2": 26337,
+            "class3": 2710,
+            "class4_other": 89,
+            "source_id": "npa2014_2026"
+          },
+          {
+            "year": 2015,
+            "roc_year": 104,
+            "value": 53622,
+            "cases": 49576,
+            "juveniles_12_17": 1939,
+            "adults_18_23": 7722,
+            "police_weight_kg": 7631.29,
+            "class1": 14449,
+            "class2": 35785,
+            "class3": 3285,
+            "class4_other": 128,
+            "source_id": "npa2014_2026",
+            "quality_flag": "各級加總較官方總計多25，原表不一致；未自行修正"
+          },
+          {
+            "year": 2016,
+            "roc_year": 105,
+            "value": 58707,
+            "cases": 54873,
+            "juveniles_12_17": 1835,
+            "adults_18_23": 7748,
+            "police_weight_kg": 4616.1,
+            "class1": 14970,
+            "class2": 41642,
+            "class3": 1966,
+            "class4_other": 129,
+            "source_id": "npa2014_2026"
+          },
+          {
+            "year": 2017,
+            "roc_year": 106,
+            "value": 62644,
+            "cases": 58515,
+            "juveniles_12_17": 1782,
+            "adults_18_23": 7776,
+            "police_weight_kg": 9685.47,
+            "class1": 14905,
+            "class2": 45334,
+            "class3": 2315,
+            "class4_other": 90,
+            "source_id": "npa2014_2026"
+          },
+          {
+            "year": 2018,
+            "roc_year": 107,
+            "value": 59106,
+            "cases": 55480,
+            "juveniles_12_17": 847,
+            "adults_18_23": 5934,
+            "police_weight_kg": 20597,
+            "class1": 15261,
+            "class2": 41631,
+            "class3": 2130,
+            "class4_other": 84,
+            "source_id": "npa2014_2026"
+          },
+          {
+            "year": 2019,
+            "roc_year": 108,
+            "value": 49131,
+            "cases": 47035,
+            "juveniles_12_17": 940,
+            "adults_18_23": 4736,
+            "police_weight_kg": 15929.37,
+            "class1": 13132,
+            "class2": 33713,
+            "class3": 2161,
+            "class4_other": 125,
+            "source_id": "npa2014_2026"
+          },
+          {
+            "year": 2020,
+            "roc_year": 109,
+            "value": 47779,
+            "cases": 45489,
+            "juveniles_12_17": 949,
+            "adults_18_23": 4633,
+            "police_weight_kg": 13306,
+            "class1": 8287,
+            "class2": 37019,
+            "class3": 2255,
+            "class4_other": 218,
+            "source_id": "npa2014_2026"
+          },
+          {
+            "year": 2021,
+            "roc_year": 110,
+            "value": 40987,
+            "cases": 38644,
+            "juveniles_12_17": 664,
+            "adults_18_23": 3895,
+            "police_weight_kg": 8332.55,
+            "class1": 6508,
+            "class2": 31838,
+            "class3": 2493,
+            "class4_other": 148,
+            "source_id": "npa2014_2026"
+          },
+          {
+            "year": 2022,
+            "roc_year": 111,
+            "value": 39964,
+            "cases": 38088,
+            "juveniles_12_17": 456,
+            "adults_18_23": 3088,
+            "police_weight_kg": 12172.44,
+            "class1": 7892,
+            "class2": 29657,
+            "class3": 2249,
+            "class4_other": 166,
+            "source_id": "npa2014_2026"
+          },
+          {
+            "year": 2023,
+            "roc_year": 112,
+            "value": 38292,
+            "cases": 36435,
+            "juveniles_12_17": 495,
+            "adults_18_23": 2922,
+            "police_weight_kg": 15978.22,
+            "class1": 7700,
+            "class2": 27620,
+            "class3": 2802,
+            "class4_other": 170,
+            "source_id": "npa2014_2026"
+          },
+          {
+            "year": 2024,
+            "roc_year": 113,
+            "value": 37854,
+            "cases": 36364,
+            "juveniles_12_17": 603,
+            "adults_18_23": 3193,
+            "police_weight_kg": 11294.77,
+            "class1": 7402,
+            "class2": 26291,
+            "class3": 3948,
+            "class4_other": 213,
+            "source_id": "npa2014_2026"
+          },
+          {
+            "year": 2025,
+            "roc_year": 114,
+            "value": 47322,
+            "cases": 47487,
+            "juveniles_12_17": 1012,
+            "adults_18_23": 4501,
+            "police_weight_kg": 13217.08,
+            "class1": 7209,
+            "class2": 36562,
+            "class3": 3292,
+            "class4_other": 259,
+            "source_id": "npa2014_2026"
+          }
+        ],
+        "checked_date": "2026-10-06"
+      },
+      "medical_report_drugs_2015_2025": {
+        "title": "2015–2025年醫療院所通報藥物種類",
+        "unit": "各藥物：人次；通報個案數：件",
+        "denominator": "報告中的藥物百分比以通報個案件數為分母，因此同人多藥可合計超過100%；本資料只列原始數值",
+        "coverage": "臺灣地區醫療院所通報，不含監所受戒治人；2015–2025全年；2025屬月報累計初步資料",
+        "definition": "醫療通報接觸到的個案及其藥物品項，不是一般人口隨機抽樣。",
+        "limitations": [
+          "同個案可通報多種藥物，藥物人次不可加總為人數。",
+          "不能和含民間戒癮團體、衛生單位的「各機關構」年報合併，例如2024年各機關構與醫療院所數值不同。",
+          "通報量會受機構涵蓋、求助與補報影響；2022年突降不可直接解讀為全人口用毒減半。",
+          "2025-12開始將依托咪酯等自NPS表移入本表，分類有調整。原表依托咪酯220比6的增幅印為13.0%，算術不一致，本資料只保留人次不採該增幅。",
+          "2022年起通報規則改為首次就診或規律回診使用不同藥物等情形，以避免重複計算；2022前後不可當成完全相同口徑的趨勢。"
+        ],
+        "source_ids": [
+          "fda2025medical",
+          "fda2024annual"
+        ],
+        "data": [
+          {
+            "year": 2015,
+            "amphetamine_methamphetamine": 5672,
+            "heroin": 11697,
+            "ketamine": 1556,
+            "cannabis": 114,
+            "benzodiazepines": 611,
+            "mdma": 624,
+            "etomidate": 0,
+            "total_drug_mentions": 21463,
+            "case_reports": 18399,
+            "source_id": "fda2025medical"
+          },
+          {
+            "year": 2016,
+            "amphetamine_methamphetamine": 6587,
+            "heroin": 14036,
+            "ketamine": 2904,
+            "cannabis": 179,
+            "benzodiazepines": 787,
+            "mdma": 730,
+            "etomidate": 0,
+            "total_drug_mentions": 26641,
+            "case_reports": 22412,
+            "source_id": "fda2025medical"
+          },
+          {
+            "year": 2017,
+            "amphetamine_methamphetamine": 8914,
+            "heroin": 16062,
+            "ketamine": 1547,
+            "cannabis": 200,
+            "benzodiazepines": 698,
+            "mdma": 539,
+            "etomidate": 0,
+            "total_drug_mentions": 30188,
+            "case_reports": 26215,
+            "source_id": "fda2025medical"
+          },
+          {
+            "year": 2018,
+            "amphetamine_methamphetamine": 13618,
+            "heroin": 16565,
+            "ketamine": 1796,
+            "cannabis": 399,
+            "benzodiazepines": 317,
+            "mdma": 762,
+            "etomidate": 1,
+            "total_drug_mentions": 34219,
+            "case_reports": 29597,
+            "source_id": "fda2025medical"
+          },
+          {
+            "year": 2019,
+            "amphetamine_methamphetamine": 13038,
+            "heroin": 16981,
+            "ketamine": 1760,
+            "cannabis": 592,
+            "benzodiazepines": 289,
+            "mdma": 801,
+            "etomidate": 0,
+            "total_drug_mentions": 34198,
+            "case_reports": 28630,
+            "source_id": "fda2025medical"
+          },
+          {
+            "year": 2020,
+            "amphetamine_methamphetamine": 10290,
+            "heroin": 14816,
+            "ketamine": 921,
+            "cannabis": 620,
+            "benzodiazepines": 598,
+            "mdma": 378,
+            "etomidate": 0,
+            "total_drug_mentions": 28569,
+            "case_reports": 25452,
+            "source_id": "fda2025medical"
+          },
+          {
+            "year": 2021,
+            "amphetamine_methamphetamine": 12598,
+            "heroin": 15574,
+            "ketamine": 709,
+            "cannabis": 500,
+            "benzodiazepines": 1276,
+            "mdma": 373,
+            "etomidate": 0,
+            "total_drug_mentions": 32453,
+            "case_reports": 28785,
+            "source_id": "fda2025medical"
+          },
+          {
+            "year": 2022,
+            "amphetamine_methamphetamine": 5241,
+            "heroin": 7699,
+            "ketamine": 446,
+            "cannabis": 312,
+            "benzodiazepines": 1433,
+            "mdma": 179,
+            "etomidate": 0,
+            "total_drug_mentions": 17188,
+            "case_reports": 14741,
+            "source_id": "fda2025medical"
+          },
+          {
+            "year": 2023,
+            "amphetamine_methamphetamine": 5511,
+            "heroin": 6412,
+            "ketamine": 506,
+            "cannabis": 355,
+            "benzodiazepines": 2240,
+            "mdma": 143,
+            "etomidate": 0,
+            "total_drug_mentions": 18485,
+            "case_reports": 12585,
+            "source_id": "fda2025medical"
+          },
+          {
+            "year": 2024,
+            "amphetamine_methamphetamine": 4363,
+            "heroin": 3986,
+            "ketamine": 428,
+            "cannabis": 517,
+            "benzodiazepines": 1035,
+            "mdma": 129,
+            "etomidate": 6,
+            "total_drug_mentions": 12655,
+            "case_reports": 10233,
+            "source_id": "fda2025medical"
+          },
+          {
+            "year": 2025,
+            "amphetamine_methamphetamine": 4460,
+            "heroin": 3484,
+            "ketamine": 410,
+            "cannabis": 474,
+            "benzodiazepines": 700,
+            "mdma": 144,
+            "etomidate": 220,
+            "total_drug_mentions": 11264,
+            "case_reports": 9270,
+            "source_id": "fda2025medical"
+          }
+        ],
+        "checked_date": "2026-10-06",
+        "labels": {
+          "amphetamine_methamphetamine": "（甲基）安非他命",
+          "heroin": "海洛因",
+          "ketamine": "愷他命",
+          "cannabis": "大麻",
+          "benzodiazepines": "苯二氮平類",
+          "mdma": "MDMA",
+          "etomidate": "依托咪酯",
+          "total_drug_mentions": "藥物品項通報總人次",
+          "case_reports": "通報個案件數"
+        }
+      },
+      "population_lifetime_prevalence": {
+        "title": "全國調查：12–64歲非法藥物使用終身盛行率",
+        "unit": "%（加權估計）",
+        "denominator": "臺灣地區12–64歲設籍一般人口；各波定義需核對",
+        "coverage": "調查波次2005、2009、2014、2018；不是逐年資料；2018不含金門、連江",
+        "definition": "一生中曾使用至少一種調查指定非法藥物的比例；不是最近一年使用率，也不是成癮診斷率。",
+        "limitations": [
+          "問卷、自陳、非回應及少數用藥者樣本會影響估計；未設籍者、機構／監禁等人口之涵蓋有限。",
+          "2018可辨識單項藥物1.15%可與前波比較；納入新增混合包／非自願或不明使用題目之1.46%另列，不能直接與1.29%說成增加。",
+          "2023調查已確認執行，但本次未取得可核對的公開結果數字；不把2018冒稱為2025現況。"
+        ],
+        "source_ids": [
+          "survey2005note",
+          "survey2014",
+          "survey2018",
+          "survey2023plan",
+          "survey2005nhri"
+        ],
+        "data": [
+          {
+            "year": 2005,
+            "value": 1.2,
+            "definition_variant": "歷史可辨識藥物",
+            "source_id": "survey2005nhri"
+          },
+          {
+            "year": 2009,
+            "value": 1.43,
+            "definition_variant": "歷史可辨識藥物",
+            "source_id": "survey2014"
+          },
+          {
+            "year": 2014,
+            "value": 1.29,
+            "definition_variant": "歷史可辨識藥物",
+            "source_id": "survey2014"
+          },
+          {
+            "year": 2018,
+            "value": 1.15,
+            "definition_variant": "可辨識個別非法藥物",
+            "source_id": "survey2018"
+          },
+          {
+            "year": 2018,
+            "value": 1.46,
+            "definition_variant": "擴充題目口徑（另列）",
+            "source_id": "survey2018"
+          }
+        ],
+        "checked_date": "2026-10-06"
+      },
+      "survey_age_2018": {
+        "title": "2018年各年齡層曾用任一種可辨識非法藥物之終身盛行率",
+        "unit": "%（加權估計）",
+        "denominator": "該年齡層之一般人口，不是所有藥物使用者",
+        "coverage": "2018年全國物質使用調查；臺灣20縣市、不含金門連江；完訪18,626人，完訪率64.6%",
+        "definition": "表6.3個別種類非法藥物之任一種加權終身盛行率。",
+        "limitations": [
+          "年齡層不同，累積一生使用的時間也不同。",
+          "小樣本及自陳偏差存在，不能把青少年0.28%視為所有兒少完全暴露風險；未納擴充混合包口徑。"
+        ],
+        "source_ids": [
+          "survey2018"
+        ],
+        "data": [
+          {
+            "age": "12–17歲",
+            "value": 0.28,
+            "sample_n": 3598,
+            "ever_used_sample_n": 9
+          },
+          {
+            "age": "18–34歲",
+            "value": 1.42,
+            "sample_n": 4901,
+            "ever_used_sample_n": 77
+          },
+          {
+            "age": "35–44歲",
+            "value": 1.91,
+            "sample_n": 3263,
+            "ever_used_sample_n": 66
+          },
+          {
+            "age": "45–64歲",
+            "value": 0.71,
+            "sample_n": 6864,
+            "ever_used_sample_n": 50
+          }
+        ],
+        "checked_date": "2026-10-06",
+        "table": "表6.3",
+        "page": "書面48頁／PDF第55頁"
+      },
+      "police_age_2025": {
+        "title": "2025年查獲毒品嫌疑犯年齡分布與犯罪人口率",
+        "unit": "count：人（逐案）；rate：每10萬同齡人口之嫌疑犯數",
+        "denominator": "count無分母；rate以該年齡組人口為分母",
+        "coverage": "全國警察機關2025全年刑事案件；不含行政罰及未滿12歲",
+        "definition": "人數最多與同齡人口率最高是不同問題。",
+        "limitations": [
+          "不是各年齡層用毒盛行率；犯罪嫌疑人含供應端。",
+          "40–49歲查獲人數最多14,447；30–39歲每10萬人口率最高406.81。不可只看人數推論風險。"
+        ],
+        "source_ids": [
+          "npa2025analysis"
+        ],
+        "data": [
+          {
+            "age": "12–17歲",
+            "value": 1012,
+            "rate_per_100000": 84.26
+          },
+          {
+            "age": "18–23歲",
+            "value": 4501,
+            "rate_per_100000": 337.38
+          },
+          {
+            "age": "24–29歲",
+            "value": 6766,
+            "rate_per_100000": 380.04
+          },
+          {
+            "age": "30–39歲",
+            "value": 12974,
+            "rate_per_100000": 406.81
+          },
+          {
+            "age": "40–49歲",
+            "value": 14447,
+            "rate_per_100000": 370.48
+          },
+          {
+            "age": "50–59歲",
+            "value": 6124,
+            "rate_per_100000": 174.58
+          },
+          {
+            "age": "60–69歲",
+            "value": 1367,
+            "rate_per_100000": 40.75
+          },
+          {
+            "age": "70歲以上",
+            "value": 131,
+            "rate_per_100000": 4.38
+          }
+        ],
+        "checked_date": "2026-10-06",
+        "table": "表2、表3",
+        "page": "第5頁"
+      },
+      "nps_related_deaths_2012_2025": {
+        "title": "2012–2025年法醫檢體檢出NPS相關死亡案件",
+        "unit": "件",
+        "denominator": "送法醫研究所毒物鑑驗之死亡案件；不是全人口死亡率",
+        "coverage": "全國各地檢署相驗或解剖送驗案件；不含單獨使用愷他命者",
+        "definition": "死者檢體檢出新興影響精神物質(NPS)的案件。",
+        "limitations": [
+          "檢出不代表該藥物就是死因，可能包括交通事故、墜樓、他殺等。",
+          "不是臺灣全部藥物過量死亡；也不能與國外overdose死亡統計直接比。",
+          "檢驗品項與新物質出現會影響趨勢。"
+        ],
+        "source_ids": [
+          "moj115"
+        ],
+        "data": [
+          {
+            "year": 2012,
+            "value": 10,
+            "source_id": "moj115"
+          },
+          {
+            "year": 2013,
+            "value": 12,
+            "source_id": "moj115"
+          },
+          {
+            "year": 2014,
+            "value": 29,
+            "source_id": "moj115"
+          },
+          {
+            "year": 2015,
+            "value": 87,
+            "source_id": "moj115"
+          },
+          {
+            "year": 2016,
+            "value": 66,
+            "source_id": "moj115"
+          },
+          {
+            "year": 2017,
+            "value": 100,
+            "source_id": "moj115"
+          },
+          {
+            "year": 2018,
+            "value": 45,
+            "source_id": "moj115"
+          },
+          {
+            "year": 2019,
+            "value": 84,
+            "source_id": "moj115"
+          },
+          {
+            "year": 2020,
+            "value": 143,
+            "source_id": "moj115"
+          },
+          {
+            "year": 2021,
+            "value": 85,
+            "source_id": "moj115"
+          },
+          {
+            "year": 2022,
+            "value": 52,
+            "source_id": "moj115"
+          },
+          {
+            "year": 2023,
+            "value": 68,
+            "source_id": "moj115"
+          },
+          {
+            "year": 2024,
+            "value": 77,
+            "source_id": "moj115"
+          },
+          {
+            "year": 2025,
+            "value": 151,
+            "source_id": "moj115"
+          }
+        ],
+        "checked_date": "2026-10-06",
+        "table": "圖2-2",
+        "page": "書面25頁"
+      },
+      "police_partial_2026": {
+        "title": "2026年1–8月警察查獲毒品（未完整年度）",
+        "unit": "嫌疑犯：人（逐案）；案件：件",
+        "denominator": "不是全年；不外推全年",
+        "coverage": "2026-01-01至2026-08-31；全國警察機關",
+        "definition": "警察機關年度表截至8月的累計。",
+        "limitations": [
+          "不能與2025全年直接計算增減率；應和2025年同期比較，但本資料未補同期間分母。",
+          "2026-06-27依托咪酯升列一級，7–8月一級上升／二級下降有分類轉移因素。"
+        ],
+        "source_ids": [
+          "npa2014_2026",
+          "etomidate2026"
+        ],
+        "data": [
+          {
+            "year": 2026,
+            "period": "1–8月",
+            "is_partial_year": true,
+            "value": 35826,
+            "cases": 37116,
+            "juveniles_12_17": 469,
+            "adults_18_23": 2688,
+            "class1": 7604,
+            "class2": 26354,
+            "class3": 1737,
+            "class4_other": 131,
+            "source_id": "npa2014_2026"
+          }
+        ],
+        "checked_date": "2026-10-06"
+      },
+      "nonurine_top5_2016_2025": {
+        "title": "2016–2025年非尿液檢驗當年度前5名成分",
+        "unit": "成分檢出件次",
+        "denominator": "送驗非尿液毒品檢體中之成分檢出次數，不是人數，也不是濃度或總市場占比",
+        "coverage": "2016–2025；僅列每年排名前5項的成分",
+        "definition": "同一檢體可檢出多種成分；只代表送驗扣案樣本。",
+        "limitations": [
+          "原互動圖以0表示該成分當年未進前5名；本資料改為null，不能把這些0當成沒有檢出。",
+          "不可將成分檢出件次直接叫作使用者；混合包拆分、送驗件數與檢驗方法會影響。",
+          "本表用來顯示卡西酮類進入前列的訊號，不能單凭名次判定致害嚴重度。"
+        ],
+        "source_ids": [
+          "nonurinechart"
+        ],
+        "data": [
+          {
+            "year": 2016,
+            "source_id": "nonurinechart",
+            "甲基安非他命": 29793,
+            "愷他命": 26866,
+            "海洛因": 19224,
+            "氯甲基卡西酮": 14077,
+            "4-甲基甲基卡西酮": 4934,
+            "硝甲西泮": null,
+            "甲苯基乙基胺戊酮": null,
+            "3,4-亞甲基雙氧苯基乙基胺丁酮": null,
+            "甲基-N,N-二甲基卡西酮": null,
+            "硝西泮": null
+          },
+          {
+            "year": 2017,
+            "source_id": "nonurinechart",
+            "甲基安非他命": 30860,
+            "愷他命": 21429,
+            "海洛因": 24943,
+            "氯甲基卡西酮": 9283,
+            "4-甲基甲基卡西酮": 25612,
+            "硝甲西泮": null,
+            "甲苯基乙基胺戊酮": null,
+            "3,4-亞甲基雙氧苯基乙基胺丁酮": null,
+            "甲基-N,N-二甲基卡西酮": null,
+            "硝西泮": null
+          },
+          {
+            "year": 2018,
+            "source_id": "nonurinechart",
+            "甲基安非他命": 28323,
+            "愷他命": 21044,
+            "海洛因": 20663,
+            "氯甲基卡西酮": null,
+            "4-甲基甲基卡西酮": null,
+            "硝甲西泮": 10089,
+            "甲苯基乙基胺戊酮": 21304,
+            "3,4-亞甲基雙氧苯基乙基胺丁酮": null,
+            "甲基-N,N-二甲基卡西酮": null,
+            "硝西泮": null
+          },
+          {
+            "year": 2019,
+            "source_id": "nonurinechart",
+            "甲基安非他命": 27272,
+            "愷他命": 22697,
+            "海洛因": 20980,
+            "氯甲基卡西酮": null,
+            "4-甲基甲基卡西酮": 70693,
+            "硝甲西泮": 59299,
+            "甲苯基乙基胺戊酮": null,
+            "3,4-亞甲基雙氧苯基乙基胺丁酮": null,
+            "甲基-N,N-二甲基卡西酮": null,
+            "硝西泮": null
+          },
+          {
+            "year": 2020,
+            "source_id": "nonurinechart",
+            "甲基安非他命": null,
+            "愷他命": null,
+            "海洛因": null,
+            "氯甲基卡西酮": null,
+            "4-甲基甲基卡西酮": 214754,
+            "硝甲西泮": 140107,
+            "甲苯基乙基胺戊酮": null,
+            "3,4-亞甲基雙氧苯基乙基胺丁酮": 59175,
+            "甲基-N,N-二甲基卡西酮": 56693,
+            "硝西泮": 46568
+          },
+          {
+            "year": 2021,
+            "source_id": "nonurinechart",
+            "甲基安非他命": 40986,
+            "愷他命": null,
+            "海洛因": null,
+            "氯甲基卡西酮": null,
+            "4-甲基甲基卡西酮": 152401,
+            "硝甲西泮": 30967,
+            "甲苯基乙基胺戊酮": null,
+            "3,4-亞甲基雙氧苯基乙基胺丁酮": null,
+            "甲基-N,N-二甲基卡西酮": 91492,
+            "硝西泮": 48500
+          },
+          {
+            "year": 2022,
+            "source_id": "nonurinechart",
+            "甲基安非他命": 36232,
+            "愷他命": 23353,
+            "海洛因": 26745,
+            "氯甲基卡西酮": null,
+            "4-甲基甲基卡西酮": 124242,
+            "硝甲西泮": null,
+            "甲苯基乙基胺戊酮": null,
+            "3,4-亞甲基雙氧苯基乙基胺丁酮": null,
+            "甲基-N,N-二甲基卡西酮": 59413,
+            "硝西泮": null
+          },
+          {
+            "year": 2023,
+            "source_id": "nonurinechart",
+            "甲基安非他命": 36268,
+            "愷他命": 27916,
+            "海洛因": 30788,
+            "氯甲基卡西酮": null,
+            "4-甲基甲基卡西酮": 240708,
+            "硝甲西泮": null,
+            "甲苯基乙基胺戊酮": null,
+            "3,4-亞甲基雙氧苯基乙基胺丁酮": null,
+            "甲基-N,N-二甲基卡西酮": 155099,
+            "硝西泮": null
+          },
+          {
+            "year": 2024,
+            "source_id": "nonurinechart",
+            "甲基安非他命": 34216,
+            "愷他命": 33963,
+            "海洛因": 36783,
+            "氯甲基卡西酮": null,
+            "4-甲基甲基卡西酮": 209578,
+            "硝甲西泮": null,
+            "甲苯基乙基胺戊酮": null,
+            "3,4-亞甲基雙氧苯基乙基胺丁酮": null,
+            "甲基-N,N-二甲基卡西酮": 158651,
+            "硝西泮": null
+          },
+          {
+            "year": 2025,
+            "source_id": "nonurinechart",
+            "甲基安非他命": 28074,
+            "愷他命": 32454,
+            "海洛因": null,
+            "氯甲基卡西酮": 22220,
+            "4-甲基甲基卡西酮": 127811,
+            "硝甲西泮": null,
+            "甲苯基乙基胺戊酮": null,
+            "3,4-亞甲基雙氧苯基乙基胺丁酮": null,
+            "甲基-N,N-二甲基卡西酮": 54288,
+            "硝西泮": null
+          }
+        ],
+        "checked_date": "2026-10-06"
+      }
+    },
+    "analysis": {
+      "核心結論": {
+        "text": "臺灣近三十年的毒品問題同時呈現藥物市場與制度的變動，不能只用一條「毒品人數」曲線概括。刑事執行、警察查獲、醫療通報、一般人口調查與法醫檢驗，各自看到不同的人與事件。1996–2025年連續序列在本報是「執行裁判確定有罪人數」，用途是觀察司法處遇規模，不能替代全人口用藥盛行率。",
+        "source_ids": [
+          "conv1996_2005",
+          "conv2006_2015",
+          "conv2016_2019_cprc",
+          "moj2024conv",
+          "moj2025conv"
+        ]
+      },
+      "三十年定罪序列怎麼讀": {
+        "text": "1996年毒品案件裁判確定有罪26,572人，1997年32,095人；1998、1999年降至20,026與8,391人。1998年改採兼具醫療與司法處遇的制度，是解讀斷點的重要背景。2008年41,120人，2018年44,541人；2020年33,031人，2021年大幅降至12,913人。2020年7月施行修法、同年11月刑事大法庭裁定擴大觀察勒戒適用，會把原本起訴、入監的案件導向不同處遇。2024年為21,870，2025年18,113。下降不能直接寫成用毒人口同比減少，更不能單憑此宣布反毒政策的因果成效。",
+        "source_ids": [
+          "conv1996_2005",
+          "conv2006_2015",
+          "conv2016_2019_cprc",
+          "moj2024conv",
+          "moj2025conv",
+          "history1998",
+          "moj115"
+        ]
+      },
+      "查獲與市場變化": {
+        "text": "警察查獲嫌疑犯由2003年28,921人次升至2007年53,681；2017年62,644，之後降至2024年37,854，2025年回升至47,322。2025年47,487件中，安非他命24,143件，占50.84%。嫌疑犯以第二級36,562最多；但此級別當年已包含依托咪酯。警政署分析指出，2025年依托咪酯嫌疑犯12,315，較前年多11,792，是年度上升的主要來源。列管擴充與查緝重點、藥物新潮流一起影響圖形；「查得更多」不等於能直接算出「實際用的人增加多少」。",
+        "source_ids": [
+          "npa2003_2010",
+          "npa2014_2026",
+          "npa2025analysis"
+        ]
+      },
+      "藥物種類演變": {
+        "text": "較早期政策重點包括海洛因與（甲基）安非他命。2000年代愷他命、MDMA等逐漸受到監測注意；愷他命於2002年列為第三級毒品。醫療院所通報的海洛因人次在2015–2023年間仍高於（甲基）安非他命，2024、2025年則後者較多；這反映醫療接觸樣本，不等於毒品市場份額。另一端，2016–2025非尿液檢驗前五名中，多種卡西酮類曾占前列，反映混合型、新興物質的變化。2018年全國調查首次加入混合包相關題目，曾用改裝型混合式毒品的終身盛行率為0.18%。近年依托咪酯加入新風險，不能只靠熟悉的海洛因、安非他命與愷他命來設計教材。",
+        "source_ids": [
+          "ketamine2002",
+          "survey2005note",
+          "fda2025medical",
+          "nonurinechart",
+          "survey2018",
+          "npa2025analysis"
+        ]
+      },
+      "年齡不能混用": {
+        "text": "2018一般人口調查中，曾用任一種可辨識非法藥物的加權終身盛行率，12–17歲0.28%、18–34歲1.42%、35–44歲1.91%、45–64歲0.71%。這是各年齡組一般人口的比例。2025年刑事查獲資料則是40–49歲人數最多14,447；除以同齡人口後，30–39歲每10萬人406.81的查獲率最高。2024各機關構的通報以40–49歲最多，初次用藥卻以20–29歲占44.0%、19歲以下占27.1%。因此「現在接受治療的年齡」不能當成「首次接觸的年齡」，也不能因就醫者年齡偏高就忽略學校預防。",
+        "source_ids": [
+          "survey2018",
+          "npa2025analysis",
+          "fda2024annual"
+        ]
+      },
+      "盛行率怎麼解釋": {
+        "text": "全國調查提供較接近一般人口的估計：2005年1.2%、2009年1.43%、2014年1.29%、2018年可辨識單項藥物口徑1.15%，均是終身曾使用，不是每年正在使用。2018年加入混合型毒品與非自願／不明使用等新題後擴充口徑為1.46%，兩個2018數字可以同時成立。未成年人、長者、未被查獲者都不應從警察或醫院樣本直接外推。2023年有新一波調查，但本次未取得可核驗之公開結果，故沒有填入不存在的2023、2024或2025盛行率。",
+        "source_ids": [
+          "survey2005note",
+          "survey2014",
+          "survey2018",
+          "survey2023plan"
+        ]
+      },
+      "危害不能只算毒品重量": {
+        "text": "重量可能被少數大型走私案、先驅原料或植物性物質主導；法務部2026彙編甚至特別把2023年港口轉運查扣約175公噸卡痛的極端值，自主要毒品趨勢圖排除。毒品重量不會直接告訴我們多少人受害、成癮或需要治療。法醫送驗案件另提供危害訊號：2012–2025年NPS相關死亡檢出案件數由10件至151件，中間2020年143件也是高點；但「相關」包含檢出NPS且死於事故等情形，不能改稱全臺所有毒品過量死亡。",
+        "source_ids": [
+          "moj115"
+        ]
+      },
+      "可教的正面公共衛生成果": {
+        "text": "2003–2005年間海洛因注射藥癮與愛滋疫情凸顯減害需求。政府2005年辦理藥癮愛滋減害，2006年引進並補助美沙冬維持治療，2011年起補助丁基原啡因藥費。法務部最新彙編引用疾管署資料：新增愛滋通報中注射藥癮風險因子占比由2005年約72%（2,431人），至2025年1.7%（15人）。這個指標的分母是當年新增愛滋感染者，不能說成全體注射用藥者感染率；它可用來說明治療、預防感染與持續支持也是毒品教育的重要面向。",
+        "source_ids": [
+          "moj115"
+        ]
+      },
+      "2026暫列": {
+        "text": "2026年另列1–8月警察查獲37,116件、嫌疑犯35,826，不和2025全年直接比較。依托咪酯及類似物質2026年6月27日升列第一級，使後續第一、二級分布發生分類變動；跨年圖需標示此斷點。",
+        "source_ids": [
+          "npa2014_2026",
+          "etomidate2026"
+        ]
+      }
+    },
+    "timeline": [
+      {
+        "year": 1998,
+        "period": "1996–1999",
+        "title": "司法處遇制度轉折",
+        "description": "1996年定罪26,572；1998年毒品危害防制條例改以「病犯」思維，初犯採觀察勒戒／戒治，1999年定罪降至8,391。不能將此直接解釋為實際使用人口減少。",
+        "source_ids": [
+          "conv1996_2005",
+          "history1998"
+        ]
+      },
+      {
+        "year": 2002,
+        "period": "2002–2009",
+        "title": "愷他命與娛樂性新興用藥受到注意",
+        "description": "2002年1月23日愷他命公告列為第三級毒品；官方高危險群監測顯示2009年愷他命檢出率16.5%，高於2008年8.0%。此為特定受檢高危險群，不能當一般人口盛行率。",
+        "source_ids": [
+          "ketamine2002",
+          "survey2005note"
+        ]
+      },
+      {
+        "year": 2005,
+        "period": "2003–2006",
+        "title": "注射海洛因危害推動減害與治療",
+        "description": "2003–2005年海洛因藥癮愛滋事件；2005年啟動藥癮愛滋減害計畫，2006年引進補助美沙冬維持治療。",
+        "source_ids": [
+          "moj115"
+        ],
+        "source_page": "46–47頁"
+      },
+      {
+        "year": 2010,
+        "period": "2006–2010",
+        "title": "警察查獲案件從一級轉向二級占多數",
+        "description": "2006年一級案件31,917、二級13,056；2010年一級19,504、二級27,694。這是查獲刑案結構的轉變，非各毒品使用人口。",
+        "source_ids": [
+          "npa2003_2010"
+        ],
+        "source_page": "表二／第2頁"
+      },
+      {
+        "year": 2018,
+        "period": "2017–2018",
+        "title": "查獲高點與混合型毒品納入人口調查",
+        "description": "2017年警察查獲嫌疑犯62,644；2018年調查首納混合包／非自願用藥等題，傳統口徑1.15%、擴充口徑1.46%。毒品辨識需超越單一熟悉名稱。",
+        "source_ids": [
+          "npa2014_2026",
+          "survey2018"
+        ]
+      },
+      {
+        "year": 2020,
+        "period": "2020–2021",
+        "title": "觀察勒戒適用擴大，刑事曲線產生斷點",
+        "description": "2020年7月15日修法施行及11月18日刑事大法庭裁定，擴大觀察勒戒適用；2021年定罪12,913，與2020年33,031有顯著落差。",
+        "source_ids": [
+          "moj115",
+          "conv2016_2019_cprc",
+          "moj2024conv"
+        ],
+        "source_page": "115年彙編38–39頁"
+      },
+      {
+        "year": 2025,
+        "period": "2024–2025",
+        "title": "依托咪酯使警察查獲結構再變",
+        "description": "2024年11月依托咪酯升列二級；2025年依托咪酯嫌疑犯12,315，較上年多11,792，整體毒品嫌疑犯47,322。",
+        "source_ids": [
+          "npa2025analysis"
+        ],
+        "source_page": "第1–3、6頁"
+      },
+      {
+        "year": 2026,
+        "period": "2026另列",
+        "title": "依托咪酯再升級；全年數字尚未完成",
+        "description": "2026年6月27日依托咪酯及類似物質升列一級；本報僅附1–8月查獲資料。",
+        "source_ids": [
+          "etomidate2026",
+          "npa2014_2026"
+        ],
+        "is_partial_year": true
+      }
+    ],
+    "cautions": [
+      "把刑事定罪、查獲、醫療通報、一般人口調查分别命名；不可合成一個「吸毒人口」圖。",
+      "報告主體終點是2025完整年；2026截至8月另框處理。",
+      "1996–2025定罪數列可連續繪圖，但至少標註1998與2020–2021制度斷點。",
+      "警察級別包含當年的法規分類；依托咪酯2024升二級、2026升一級，不能把級別變化全當行為變化。",
+      "官方數據可能修訂：2021定罪12,914修訂為12,913；已採較新法務部原表。",
+      "2015警察分級加總與總計不符25人，僅總計可作主圖；若要堆疊各級，需明示或略過該年。",
+      "2025醫療月報的依托咪酯增幅欄有算術矛盾，勿照抄13.0%；只用核對過的人次。",
+      "115年彙編表3-1少年毒品觸法總計2025為1,019，警政署年度表為1,012；範圍／修訂時點未釐清，本報年齡圖統一採警政署原表。",
+      "115年彙編表3-3兒少通報的2021與2023總計與所列分級小計不合，不以其分級堆疊圖作教學結論。",
+      "互動前5名非尿液圖的0是「未列入當年前5名」，已轉null，不能當沒有檢出。",
+      "沒有可核驗的新一波人口調查結果就明示缺漏；不外推2025盛行率，不杜撰每年盛行率。"
+    ]
+  },
+  "justice": {
+    "metadata": {
+      "title": "臺灣毒品犯罪：監獄、再犯與重大案件核實資料",
+      "language": "zh-Hant",
+      "checked_date": "2026-10-06",
+      "main_period": "1996–2025",
+      "update_period": "2026，獨立列示；不是全年資料",
+      "status": "complete",
+      "scope": "官方司法、矯正及警政資料；代表性案例，非全案名錄。"
+    },
+    "methodology_notes": [
+      "在監比例是期末存量：分子為指定日期在監毒品罪受刑人，分母為同日全體在監受刑人。不是全國人口，也不是看守所、勒戒所等所有矯正機關收容人。",
+      "新入監比例是期間流量：分子為該年新入監毒品罪受刑人，分母為該年所有新入監受刑人。不能以年底在監人數作分母。",
+      "毒品罪含製造、運輸、販賣、施用、持有等法律類別；「毒品罪受刑人」不能全改寫為「吸毒者」或「藥頭」。",
+      "在毒品受刑人中製賣運輸者比例，分母只是毒品受刑人；它不是全體受刑人中製賣運輸者比例。",
+      "犯罪查獲、偵查終結、起訴、有罪確定、入監，是不同程序與不同年度的行政統計，不能相除製造起訴率或定罪率。",
+      "嫌疑人統計不是經調查估計的藥物使用盛行人口；受查緝強度、列管項目與統計修訂影響。個案查扣量也不能直接換算真實市場規模。",
+      "再犯率必須列出原始處遇組、出獄年度、追蹤長度、截止日、再犯罪種及認定事件。再被捕、再起訴、再定罪、再入監與醫療上的復發，彼此並不相等。",
+      "有前科者占某年新入監者的比例，是回顧性組成指標；不是追蹤一批出獄者之後再次犯罪的機率。",
+      "存量較容易累積服刑較久的人；因此製賣運輸者在年底在監者占比很高，不能據此認為新入監也有相同比例。這是存量與流量的統計推論，非個案因果證明。",
+      "案例均記錄來源發布當時已確認之程序階段；起訴及羈押不等於定罪，求刑不等於宣判，得上訴判決不等於判決確定。"
+    ],
+    "sources": [
+      {
+        "id": "PC01",
+        "title": "法務部：監獄在監受刑人罪名",
+        "url": "https://www.rjsd.moj.gov.tw/RJSDWeb/common/WebList3_Report.aspx?list_id=772&menu=INF_COMMON_C",
+        "locator": "網頁表格111–114年底及115年8月底列；表下說明",
+        "checked_date": "2026-10-06",
+        "publication_date": null
+      },
+      {
+        "id": "PC02",
+        "title": "法務部：監獄新入監受刑人入監時罪名",
+        "url": "https://www.rjsd.moj.gov.tw/RJSDWeb/common/WebList3_Report.aspx?list_id=774&menu=INF_COMMON_C",
+        "locator": "網頁表格111–114年及115年1–8月列；表下說明",
+        "checked_date": "2026-10-06",
+        "publication_date": null
+      },
+      {
+        "id": "PC03",
+        "title": "法務部矯正署：114年12月毒品摘要",
+        "url": "https://www.mjac.moj.gov.tw/media/20715214/11412%E6%AF%92%E5%93%81%E6%91%98%E8%A6%81.pdf?mediaDL=true",
+        "locator": "印刷頁14：新入監、在監毒品受刑人圖與觀察勒戒及強制戒治圖",
+        "checked_date": "2026-10-06",
+        "publication_date": "2026",
+        "note": "搜尋引擎可讀完整單頁；直接PDF開啟有時逾時。"
+      },
+      {
+        "id": "PC04",
+        "title": "法務部：毒品罪受刑人出獄後2年內再犯罪情形",
+        "url": "https://www.rjsd.moj.gov.tw/RJSDWeb/common/WebList3_Report.aspx?list_id=1985&menu=INF_COMMON_C",
+        "locator": "表格110–114年列；說明1、2；統計截止日114年底",
+        "checked_date": "2026-10-06",
+        "publication_date": null
+      },
+      {
+        "id": "PC05",
+        "title": "法務部：受刑人出獄後2年內再犯罪情形",
+        "url": "https://www.rjsd.moj.gov.tw/RJSDWeb/common/WebList3_Report.aspx?list_id=1982&menu=INF_COMMON_C",
+        "locator": "表格110–114年列；說明1、2；統計截止日114年底",
+        "checked_date": "2026-10-06",
+        "publication_date": null
+      },
+      {
+        "id": "PC06",
+        "title": "矯政期刊第6卷第1期：從矯正機關收容人口結構之變化探討其因應之道",
+        "url": "https://www.mjac.moj.gov.tw/media/28207/73110472388.pdf",
+        "locator": "印刷頁39，附表九：在監受刑人犯罪類型分布情形（1993年至2015年）；資料註記整理自法務部統計年報及月報",
+        "checked_date": "2026-10-06",
+        "publication_date": "2017-01",
+        "note": "矯正署刊載之歷史統計彙編；本文擇取基準年，不冒充1996–2025逐年同一版本資料。"
+      },
+      {
+        "id": "PC07",
+        "title": "警政署：113年警政工作年報",
+        "url": "https://www.npa.gov.tw/ch/app/data/doc?detailNo=1452952881236807680&module=wg031&type=s",
+        "locator": "印刷頁42，表2-1：113年與112年查緝毒品犯罪成果比較",
+        "checked_date": "2026-10-06",
+        "publication_date": "2025",
+        "note": "使用年報版本；與113年12月即時月報初步數不同。"
+      },
+      {
+        "id": "PC08",
+        "title": "警政署：114年各案類嫌疑犯人數，按性別分",
+        "url": "https://www.npa.gov.tw/ch/app/data/doc?detailNo=816230917533102080&module=wg063&type=s",
+        "locator": "第1頁，總計列：違反毒品危害防制條例47,322；男40,003、女7,319",
+        "checked_date": "2026-10-06",
+        "publication_date": "2026"
+      },
+      {
+        "id": "PC09",
+        "title": "警政署：114年第50週警政統計通報",
+        "url": "https://www.npa.gov.tw/ch/app/data/doc?detailNo=1447851676311490560&module=wg057&type=s",
+        "locator": "第2頁二（三）：依托咪酯嫌疑犯按犯罪方法；第3頁表1說明7、8",
+        "checked_date": "2026-10-06",
+        "publication_date": "2025-12-10",
+        "note": "114年1–9月為初步數；不含行政罰案件。"
+      },
+      {
+        "id": "PC10",
+        "title": "司法官學院：113年犯罪狀況及其分析，第四篇",
+        "url": "https://www.cprc.moj.gov.tw/media/20215117/4-%E7%AC%AC%E5%9B%9B%E7%AF%87-%E7%89%B9%E5%AE%9A%E9%A1%9E%E5%9E%8B%E7%8A%AF%E7%BD%AA%E8%80%85%E4%B9%8B%E7%8A%AF%E7%BD%AA%E8%B6%A8%E5%8B%A2%E8%88%87%E8%99%95%E9%81%87.pdf?mediaDL=true",
+        "locator": "印刷頁163–164：第三章毒品犯罪者；參照表4-3-1、4-3-2",
+        "checked_date": "2026-10-06",
+        "publication_date": "2025"
+      },
+      {
+        "id": "PC11",
+        "title": "臺北地檢署：北檢緝毒實錄，緝毒專組工作績效大事紀（91年至107年）",
+        "url": "https://www.tpc.moj.gov.tw/media/85845/85119484642.pdf",
+        "locator": "印刷頁253（PDF第2頁）2002-09-25；255（第4頁）2003-05-21；287（第36頁）2016-12-01",
+        "checked_date": "2026-10-06",
+        "publication_date": "2018-05-10"
+      },
+      {
+        "id": "PC12",
+        "title": "法務部：全面緝毒作戰計畫記者會新聞稿",
+        "url": "https://www.moj.gov.tw/2204/2795/2796/53555/",
+        "locator": "跨國緝毒合作案例（1）：1996年開始發現線索，2005年緝捕陳姓跨國販毒嫌犯",
+        "checked_date": "2026-10-06",
+        "publication_date": "2005",
+        "note": "僅可作偵查沿革；此稿未交代終局判決。"
+      },
+      {
+        "id": "PC13",
+        "title": "屏東地檢署：歷年最大宗岸際海洛因案",
+        "url": "https://antidrug.moj.gov.tw/cp-1202-6153-1.html",
+        "locator": "正文第3、4點：107-11-19查扣1240塊約470公斤及10人到案",
+        "checked_date": "2026-10-06",
+        "publication_date": "2018",
+        "note": "涉及少年，報告僅保留事件層級數據，不列未成年人身分；不採稿內上癮次數及施用人次推算。"
+      },
+      {
+        "id": "PC14",
+        "title": "新北地檢署：檢警查獲陸上最大宗海洛因毒品並瓦解運輸販賣毒品犯罪組織",
+        "url": "https://antidrug.moj.gov.tw/dl-2969-ef2ac234-c9b2-4197-998d-0e030a0e3bf8.html",
+        "locator": "原始新聞稿PDF第1頁：2021-10-21、1172塊約446.8公斤；第2頁：11-23起訴7人",
+        "checked_date": "2026-10-06",
+        "publication_date": "2021-11-24",
+        "note": "附件以application/octet-stream提供；已下載PDF並以pdftotext核對。446.8公斤為當時新聞稿報告重量，不當成純質淨重。"
+      },
+      {
+        "id": "PC15",
+        "title": "臺灣高等法院高雄分院：113年度國上重訴字第1號毒品案新聞稿",
+        "url": "https://www.judicial.gov.tw/tw/dl-239428-aa3932e215724761b4614186762ba667.html",
+        "locator": "PDF第1頁主文、2–3頁犯罪事實和查扣重量、第4頁得上訴",
+        "checked_date": "2026-10-06",
+        "publication_date": "2025-06-05"
+      },
+      {
+        "id": "PC16",
+        "title": "橋頭地檢署：135公斤依托咪酯案偵結起訴",
+        "url": "https://www.qtc.moj.gov.tw/media/380399/1131127%E6%A9%8B%E6%AA%A2%E6%96%B0%E8%81%9E%E7%A8%BF-%E6%A9%8B%E6%AA%A2%E5%9F%B7%E8%A1%8C%E9%AB%98%E6%AA%A2%E7%BD%B2%E5%AE%89%E5%B1%85%E7%B7%9D%E6%AF%92%E5%B0%88%E6%A1%88-%E5%81%B5%E7%A0%B4%E5%85%A8%E8%87%BA%E7%81%A3%E6%9C%80%E5%A4%A7%E5%AE%97%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E6%AF%92%E5%93%81%E6%A1%88-%E6%94%94%E4%B8%8B135%E5%85%AC%E6%96%A4%E5%B8%82%E5%80%BC%E7%B4%8427%E5%84%84%E5%85%83%E5%96%AA%E5%B1%8D%E8%8F%B8%E5%BD%88-%E5%81%B5%E7%B5%90%E8%B5%B7%E8%A8%B4%E8%A2%AB%E5%91%8A.pdf?mediaDL=true",
+        "locator": "PDF第1頁：簡要起訴事實與涉犯法條",
+        "checked_date": "2026-10-06",
+        "publication_date": "2024-11-27"
+      },
+      {
+        "id": "PC17",
+        "title": "橋頭地檢署：300公斤依托咪酯案",
+        "url": "https://www.qtc.moj.gov.tw/media/401086/1140610%E6%A9%8B%E6%AA%A2%E6%96%B0%E8%81%9E%E7%A8%BF-%E6%A9%8B%E9%A0%AD%E5%9C%B0%E6%AA%A2%E7%BD%B2%E5%86%8D%E5%89%B5%E7%B7%9D%E6%AF%92%E6%96%B0%E7%B4%80%E9%8C%84%E5%81%B5%E7%A0%B4%E5%85%A8%E5%8F%B0%E6%9C%80%E5%A4%A7%E5%AE%97%E7%AB%B9%E8%81%AF%E5%B9%AB%E6%98%8E%E4%BB%81%E6%9C%83%E8%B5%B0%E7%A7%81300%E5%85%AC%E6%96%A4%E5%96%AA%E5%B1%8D%E8%8F%B8%E6%AF%92%E6%A1%88.pdf?mediaDL=true",
+        "locator": "PDF第1頁：2025-01-27查獲300公斤；第2頁：2025-04-21起訴6人",
+        "checked_date": "2026-10-06",
+        "publication_date": "2025-06-10"
+      },
+      {
+        "id": "PC18",
+        "title": "桃園地檢署：起訴依托咪酯製毒工廠案",
+        "url": "https://www.tyc.moj.gov.tw/294079/294166/294168/1408767/post",
+        "locator": "正文：2026-02-11搜索、2026-06-15起訴公告、成品與前驅物分列",
+        "checked_date": "2026-10-06",
+        "publication_date": "2026-06-15"
+      },
+      {
+        "id": "PC19",
+        "title": "司法官學院犯罪防治研究中心：近20年來臺灣毒品犯罪趨勢與省思，1996–2015",
+        "url": "https://www.cprc.moj.gov.tw/media/7416/692914261770.pdf?mediaDL=true",
+        "locator": "簡報第2頁：1998、2008法律制度變化；第7頁：新入監有毒品前科比率",
+        "checked_date": "2026-10-06",
+        "publication_date": "2016",
+        "note": "第8頁年代區間有明顯文字錯置，不採用該段作逐年統計。"
+      },
+      {
+        "id": "PC20",
+        "title": "法務部：113年法務統計年報，監獄收容情形",
+        "url": "https://www.rjsd.moj.gov.tw/RJSDWeb/book/Book_File.ashx?chapter_id=683_8_1",
+        "locator": "印刷頁4-32：109–113年新入監受刑人前五大罪名表",
+        "checked_date": "2026-10-06",
+        "publication_date": "2025"
+      }
+    ],
+    "prison_stock": [
+      {
+        "year": 1996,
+        "as_of": "1996-12-31",
+        "drug_prisoners": 23455,
+        "all_prisoners": 41613,
+        "percent": 56.4,
+        "percent_basis": "歷史來源所列",
+        "source_ids": [
+          "PC06"
+        ],
+        "series_note": "歷史彙編版本；不宣稱與現行表完全同一修訂口徑"
+      },
+      {
+        "year": 2000,
+        "as_of": "2000-12-31",
+        "drug_prisoners": 15478,
+        "all_prisoners": 37611,
+        "percent": 41.2,
+        "percent_basis": "歷史來源所列",
+        "source_ids": [
+          "PC06"
+        ],
+        "series_note": "歷史彙編版本；不宣稱與現行表完全同一修訂口徑"
+      },
+      {
+        "year": 2005,
+        "as_of": "2005-12-31",
+        "drug_prisoners": 19775,
+        "all_prisoners": 48779,
+        "percent": 40.5,
+        "percent_basis": "歷史來源所列",
+        "source_ids": [
+          "PC06"
+        ],
+        "series_note": "歷史彙編版本；不宣稱與現行表完全同一修訂口徑"
+      },
+      {
+        "year": 2010,
+        "as_of": "2010-12-31",
+        "drug_prisoners": 24480,
+        "all_prisoners": 57088,
+        "percent": 42.9,
+        "percent_basis": "歷史來源所列",
+        "source_ids": [
+          "PC06"
+        ],
+        "series_note": "歷史彙編版本；不宣稱與現行表完全同一修訂口徑"
+      },
+      {
+        "year": 2015,
+        "as_of": "2015-12-31",
+        "drug_prisoners": 27007,
+        "all_prisoners": 56948,
+        "percent": 47.4,
+        "percent_basis": "歷史來源所列",
+        "source_ids": [
+          "PC06"
+        ],
+        "series_note": "歷史彙編版本；不宣稱與現行表完全同一修訂口徑"
+      },
+      {
+        "year": 2022,
+        "as_of": "2022-12-31",
+        "drug_prisoners": 20647,
+        "all_prisoners": 49720,
+        "percent": 41.5,
+        "percent_basis": "依同表分子分母計算至小數1位",
+        "source_ids": [
+          "PC01"
+        ],
+        "series_note": "現行常用統計表"
+      },
+      {
+        "year": 2023,
+        "as_of": "2023-12-31",
+        "drug_prisoners": 20695,
+        "all_prisoners": 50664,
+        "percent": 40.8,
+        "percent_basis": "依同表分子分母計算至小數1位",
+        "source_ids": [
+          "PC01"
+        ],
+        "series_note": "現行常用統計表"
+      },
+      {
+        "year": 2024,
+        "as_of": "2024-12-31",
+        "drug_prisoners": 21304,
+        "all_prisoners": 52825,
+        "percent": 40.3,
+        "percent_basis": "依同表分子分母計算至小數1位",
+        "source_ids": [
+          "PC01"
+        ],
+        "series_note": "現行常用統計表"
+      },
+      {
+        "year": 2025,
+        "as_of": "2025-12-31",
+        "drug_prisoners": 20974,
+        "all_prisoners": 56086,
+        "percent": 37.4,
+        "percent_basis": "依同表分子分母計算至小數1位",
+        "source_ids": [
+          "PC01"
+        ],
+        "series_note": "現行常用統計表"
+      }
+    ],
+    "prison_admissions": [
+      {
+        "year": 2020,
+        "drug_admissions": 8957,
+        "all_admissions": 32547,
+        "percent": 27.52,
+        "source_ids": [
+          "PC20"
+        ],
+        "denominator": "當年度全體新入監受刑人"
+      },
+      {
+        "year": 2021,
+        "drug_admissions": 4748,
+        "all_admissions": 25221,
+        "percent": 18.83,
+        "source_ids": [
+          "PC20"
+        ],
+        "denominator": "當年度全體新入監受刑人"
+      },
+      {
+        "year": 2022,
+        "drug_admissions": 4390,
+        "all_admissions": 30196,
+        "percent": 14.54,
+        "source_ids": [
+          "PC02"
+        ],
+        "denominator": "當年度全體新入監受刑人"
+      },
+      {
+        "year": 2023,
+        "drug_admissions": 5113,
+        "all_admissions": 31763,
+        "percent": 16.1,
+        "source_ids": [
+          "PC02"
+        ],
+        "denominator": "當年度全體新入監受刑人"
+      },
+      {
+        "year": 2024,
+        "drug_admissions": 5706,
+        "all_admissions": 33119,
+        "percent": 17.23,
+        "source_ids": [
+          "PC02"
+        ],
+        "denominator": "當年度全體新入監受刑人"
+      },
+      {
+        "year": 2025,
+        "drug_admissions": 5385,
+        "all_admissions": 36589,
+        "percent": 14.72,
+        "source_ids": [
+          "PC02"
+        ],
+        "denominator": "當年度全體新入監受刑人"
+      }
+    ],
+    "prison_2025_composition": {
+      "year": 2025,
+      "source_ids": [
+        "PC03"
+      ],
+      "stock": {
+        "denominator_drug_prisoners": 20974,
+        "manufacture_sale_transport": 18137,
+        "manufacture_sale_transport_percent": 86.5,
+        "use": 2194,
+        "use_percent": 10.5,
+        "other": 643,
+        "other_percent": 3.1
+      },
+      "admissions": {
+        "denominator_drug_admissions": 5385,
+        "manufacture_sale_transport": 2546,
+        "manufacture_sale_transport_percent": 47.3,
+        "use": 2331,
+        "use_percent": 43.3,
+        "other": 508,
+        "other_percent": 9.4
+      },
+      "note": "各百分比採官方一位小數四捨五入，合計可能不是100.0。製賣運輸為合併欄，無法拆成純販賣。"
+    },
+    "recidivism_cohorts": {
+      "drug_release_definition": {
+        "cohort": "原以毒品罪服刑、實際出獄之受刑人；不是所有施用毒品人口",
+        "outcome_offense_scope": "再犯罪，原表未限定再犯毒品罪，故按任何犯罪認定，不寫成再次施用毒品",
+        "outcome_event": "追蹤期間內再犯罪，經檢察官偵查終結，已起訴且判決確定有罪、緩起訴處分確定及職權不起訴處分確定者",
+        "event_category": "混合司法處分／定罪指標；不是單純再被捕、單純再定罪或再入監",
+        "elapsed_time_anchor": "實際出獄日至偵查案件新收分案日",
+        "followup_years": 2,
+        "censor_date": "2025-12-31",
+        "source_ids": [
+          "PC04"
+        ]
+      },
+      "complete": [
+        {
+          "release_year": 2021,
+          "denominator_released_drug_prisoners": 9325,
+          "numerator_reoffenders": 3075,
+          "percent": 33.0,
+          "followup_complete": true,
+          "definition_ref": "drug_release_definition",
+          "source_ids": [
+            "PC04"
+          ]
+        },
+        {
+          "release_year": 2022,
+          "denominator_released_drug_prisoners": 6212,
+          "numerator_reoffenders": 2199,
+          "percent": 35.4,
+          "followup_complete": true,
+          "definition_ref": "drug_release_definition",
+          "source_ids": [
+            "PC04"
+          ]
+        },
+        {
+          "release_year": 2023,
+          "denominator_released_drug_prisoners": 5728,
+          "numerator_reoffenders": 2162,
+          "percent": 37.7,
+          "followup_complete": true,
+          "definition_ref": "drug_release_definition",
+          "source_ids": [
+            "PC04"
+          ]
+        }
+      ],
+      "combined_complete": {
+        "release_years": "2021–2023",
+        "denominator": 21265,
+        "numerator": 7436,
+        "percent": 35.0,
+        "definition_ref": "drug_release_definition",
+        "source_ids": [
+          "PC04"
+        ]
+      },
+      "incomplete_do_not_compare": [
+        {
+          "release_year": 2024,
+          "denominator": 5624,
+          "numerator": 1370,
+          "percent": 24.4,
+          "followup_complete": false,
+          "censor_date": "2025-12-31",
+          "source_ids": [
+            "PC04"
+          ],
+          "warning": "追蹤未滿2年，不用來比較成效或宣稱再犯下降；僅示範資料截尾。"
+        },
+        {
+          "release_year": 2025,
+          "denominator": 6165,
+          "numerator": 184,
+          "percent": 3.0,
+          "followup_complete": false,
+          "censor_date": "2025-12-31",
+          "source_ids": [
+            "PC04"
+          ],
+          "warning": "追蹤未滿2年，不用來比較成效或宣稱再犯下降；僅示範資料截尾。"
+        }
+      ],
+      "all_offense_comparator": {
+        "release_years": "2021–2023",
+        "denominator_released_all_prisoners": 90928,
+        "numerator": 28352,
+        "percent": 31.2,
+        "followup_years": 2,
+        "censor_date": "2025-12-31",
+        "outcome": "同類混合司法處分指標，任何犯罪；非藥物人口",
+        "source_ids": [
+          "PC05"
+        ],
+        "warning": "描述性比較，不能單憑差異認定毒品造成再犯或處遇因果。"
+      }
+    },
+    "enforcement_statistics": [
+      {
+        "year": 2023,
+        "jurisdiction": "警察機關",
+        "procedural_stage": "查獲嫌疑人／指標對象，非定罪",
+        "unit": "原表單位人；未宣稱全年跨案去重人口",
+        "all_drug_suspects": 38292,
+        "manufacture": 365,
+        "transport": 532,
+        "sale": 5057,
+        "possession_with_intent_to_sell": 797,
+        "supply_side_total": 6751,
+        "source_ids": [
+          "PC07"
+        ]
+      },
+      {
+        "year": 2024,
+        "jurisdiction": "警察機關",
+        "procedural_stage": "查獲嫌疑人／指標對象，非定罪",
+        "unit": "原表單位人；未宣稱全年跨案去重人口",
+        "all_drug_suspects": 37854,
+        "manufacture": 288,
+        "transport": 579,
+        "sale": 5135,
+        "possession_with_intent_to_sell": 891,
+        "supply_side_total": 6893,
+        "source_ids": [
+          "PC07"
+        ]
+      },
+      {
+        "year": 2025,
+        "jurisdiction": "警察機關",
+        "procedural_stage": "查獲毒品犯罪嫌疑人",
+        "all_drug_suspects": 47322,
+        "male": 40003,
+        "female": 7319,
+        "sale_only": null,
+        "source_ids": [
+          "PC08"
+        ],
+        "note": "未核得同口徑2025全年純販賣細項，留白，不以47,322代替販毒人數。"
+      },
+      {
+        "period": "2025-01至2025-09",
+        "jurisdiction": "警察機關",
+        "procedural_stage": "查獲嫌疑人",
+        "drug": "依托咪酯",
+        "all_suspects": 8392,
+        "sale": 1282,
+        "sale_percent": 15.28,
+        "possession": 4171,
+        "use": 2378,
+        "source_ids": [
+          "PC09"
+        ],
+        "note": "初步數；特定毒品與部分年度，不與全年所有毒品混接。"
+      },
+      {
+        "year": 2024,
+        "jurisdiction": "地方檢察署",
+        "procedural_stage": "執行裁判確定有罪",
+        "all_drug_convictions": 21870,
+        "manufacture_sale_transport_by_schedule": {
+          "I": 458,
+          "II": 2620,
+          "III": 2008,
+          "IV": 34
+        },
+        "manufacture_sale_transport_total": 5120,
+        "source_ids": [
+          "PC10"
+        ],
+        "note": "5,120由四級合計計算，非純販賣；與2024警察販賣嫌疑人5,135不是同一隊列，不能算定罪率。"
+      }
+    ],
+    "major_cases": [
+      {
+        "year": 2005,
+        "event_period": "1996發現涉案線索；2005國際合作緝捕",
+        "title": "跨國販毒偵查沿革",
+        "facts": "法務部記錄，調查局1996年偵辦相關販毒案時發現陳姓嫌犯跨國走私線索；2005年與美國、澳洲執法機關合作緝捕。",
+        "stage": "官方偵查沿革及緝捕消息；未核實終局裁判",
+        "source_ids": [
+          "PC12"
+        ],
+        "teaching_point": "重大毒品犯罪有跨境組織與長期調查的一面。"
+      },
+      {
+        "year": 2002,
+        "event_date": "2002-09-25",
+        "title": "雲林麥寮27公斤海洛因案",
+        "facts": "北檢史實紀錄臺北、高雄、雲林檢察官聯合指揮，查扣海洛因磚72塊、27公斤，並循線查獲共犯。",
+        "quantity": [
+          {
+            "drug": "海洛因",
+            "amount": 27,
+            "unit": "公斤",
+            "weight_basis": "來源僅記重量，未明列純質淨重"
+          }
+        ],
+        "stage": "查獲及偵查紀錄；未以此來源確認起訴或定罪",
+        "source_ids": [
+          "PC11"
+        ],
+        "source_locator": "印刷頁253，91.9.25列",
+        "teaching_point": "早期代表性跨區走私案；不將新聞的重量直接當作純毒品重量。"
+      },
+      {
+        "year": 2003,
+        "event_date": "2003-05-21",
+        "title": "汐止大量搖頭丸販賣嫌疑案",
+        "facts": "檢警查獲涉嫌販賣搖頭丸者，扣得20萬3,000顆，合計60公斤。",
+        "quantity": [
+          {
+            "drug": "搖頭丸",
+            "amount": 203000,
+            "unit": "顆"
+          },
+          {
+            "drug": "搖頭丸",
+            "amount": 60,
+            "unit": "公斤",
+            "weight_basis": "來源未明列純質淨重"
+          }
+        ],
+        "stage": "查獲；未核實終局裁判",
+        "source_ids": [
+          "PC11"
+        ],
+        "source_locator": "印刷頁255，92.5.21列",
+        "teaching_point": "用大型合成毒品案件補充只談海洛因的歷史印象。"
+      },
+      {
+        "year": 2016,
+        "event_date": "2016-12-01",
+        "title": "高雄貨櫃碼頭古柯鹼運輸案",
+        "facts": "北檢史實記載查扣古柯鹼203,538公克，另扣現金1,383萬元。",
+        "quantity": [
+          {
+            "drug": "古柯鹼",
+            "amount": 203.538,
+            "unit": "公斤",
+            "weight_basis": "由203,538公克換算；來源未明列純質淨重"
+          }
+        ],
+        "stage": "查獲及偵查紀錄；未核實終局裁判",
+        "source_ids": [
+          "PC11"
+        ],
+        "source_locator": "印刷頁287，105.12.1列",
+        "teaching_point": "毒品種類及跨國市場多樣化；個案不能代表年度盛行率。"
+      },
+      {
+        "year": 2018,
+        "event_date": "2018-11-19",
+        "title": "屏東岸際海洛因案",
+        "facts": "屏東地檢署公告查扣海洛因磚1,240塊、總重約470公斤，後續共10人到案。",
+        "quantity": [
+          {
+            "drug": "海洛因",
+            "amount": 470,
+            "unit": "公斤",
+            "weight_basis": "新聞稿總重約數，非純質淨重"
+          }
+        ],
+        "stage": "查獲、羈押與收容階段之公告；非判決確定",
+        "source_ids": [
+          "PC13"
+        ],
+        "teaching_point": "海陸聯合查緝；涉及少年只保留事件層級數字，不揭露個人資料。"
+      },
+      {
+        "year": 2021,
+        "event_date": "2021-10-21",
+        "title": "新北陸上海洛因大案",
+        "facts": "新北地檢署原始公告查扣海洛因磚1,172塊、約446.8公斤；2021年11月23日依運輸第一級毒品及走私等罪嫌起訴7人。",
+        "quantity": [
+          {
+            "drug": "海洛因",
+            "amount": 446.8,
+            "unit": "公斤",
+            "weight_basis": "該次起訴新聞稿報告重量，不能當成純質淨重"
+          }
+        ],
+        "prosecuted_defendants": 7,
+        "stage": "2021-11-23提起公訴；未由此確認終局定罪",
+        "source_ids": [
+          "PC14"
+        ],
+        "teaching_point": "「查獲」「起訴」應分別記錄；不同機關或後續鑑定重量有不同口徑。"
+      },
+      {
+        "year": 2023,
+        "event_date": "2023-08-07",
+        "title": "飛燕號貨輪運毒案",
+        "facts": "2025年二審法院新聞稿認定，2023年查扣甲基安非他命驗前淨重1,201.02625公斤、純質淨重約936.80047公斤；愷他命驗前淨重119.98080公斤、純質淨重103.18348公斤。2025年6月5日二審對主嫌改判17年，並明載得上訴。",
+        "quantity": [
+          {
+            "drug": "甲基安非他命",
+            "amount": 1201.02625,
+            "unit": "公斤",
+            "weight_basis": "驗前淨重"
+          },
+          {
+            "drug": "甲基安非他命",
+            "amount": 936.80047,
+            "unit": "公斤",
+            "weight_basis": "純質淨重約數"
+          },
+          {
+            "drug": "愷他命",
+            "amount": 119.9808,
+            "unit": "公斤",
+            "weight_basis": "驗前淨重"
+          },
+          {
+            "drug": "愷他命",
+            "amount": 103.18348,
+            "unit": "公斤",
+            "weight_basis": "純質淨重"
+          }
+        ],
+        "stage": "截至所引2025-06-05官方公告為二審、得上訴；不表示目前已定讞",
+        "source_ids": [
+          "PC15"
+        ],
+        "teaching_point": "同案可示範毛重／淨重／純質淨重差別與審級變動。",
+        "latest_status_warning": "未把2025二審當作2026最新結果；若要敘述2026程序，須另核裁判，不應宣稱17年已定讞。"
+      },
+      {
+        "year": 2024,
+        "event_date": "2024-10-09",
+        "title": "橋頭135公斤依托咪酯起訴案",
+        "facts": "橋頭地檢署於2024年11月27日公告查扣依托咪酯27袋、總毛重135公斤，依案發時運輸第三級毒品等罪嫌起訴；檢察官求刑15年。",
+        "quantity": [
+          {
+            "drug": "依托咪酯",
+            "amount": 135,
+            "unit": "公斤",
+            "weight_basis": "總毛重"
+          }
+        ],
+        "stage": "偵結起訴；15年為求刑，非判刑",
+        "source_ids": [
+          "PC16"
+        ],
+        "teaching_point": "罪名依行為時法律判斷；不能用之後的毒品級別倒寫先前起訴事實。"
+      },
+      {
+        "year": 2025,
+        "event_date": "2025-01-27",
+        "title": "橋頭300公斤依托咪酯案",
+        "facts": "橋頭地檢署公告查獲依托咪酯300公斤，並於2025年4月21日起訴6名被告。",
+        "quantity": [
+          {
+            "drug": "依托咪酯",
+            "amount": 300,
+            "unit": "公斤",
+            "weight_basis": "新聞稿未明列純質淨重，保留原稱"
+          }
+        ],
+        "prosecuted_defendants": 6,
+        "stage": "2025-04-21起訴；未核實判決確定",
+        "source_ids": [
+          "PC17"
+        ],
+        "teaching_point": "新興毒品供應端規模及組織犯罪議題；所稱紀錄只限來源當時與特定毒品，不說是歷年所有毒品第一。"
+      }
+    ],
+    "updates_2026": {
+      "prison_stock": {
+        "as_of": "2026-08-31",
+        "drug_prisoners": 20324,
+        "all_prisoners": 58455,
+        "percent": 34.77,
+        "source_ids": [
+          "PC01"
+        ]
+      },
+      "prison_admissions": {
+        "period": "2026-01–2026-08",
+        "drug_admissions": 3344,
+        "all_admissions": 25565,
+        "percent": 13.08,
+        "source_ids": [
+          "PC02"
+        ]
+      },
+      "case": {
+        "title": "桃園依托咪酯製毒工廠起訴案",
+        "event_date": "2026-02-11",
+        "announcement": "2026-06-15",
+        "facts": "桃園地檢署公告搜索查扣依托咪酯成品1.977公斤、第四級毒品先驅原料93.323公斤，起訴2名被告並具體求刑15年。",
+        "stage": "起訴、檢方求刑；不是法院判刑",
+        "source_ids": [
+          "PC18"
+        ],
+        "warning": "成品與先驅原料不能加總成95.3公斤依托咪酯。"
+      },
+      "warning": "2026為未完年度的獨立更新；不與2025全年人數直接相減描述年度升降。"
+    },
+    "report_prose": [
+      {
+        "heading": "監獄中有多少毒品犯罪受刑人？",
+        "text": "報告應先把「年底留在監獄的人」和「一年新進監獄的人」分開。2025年底，毒品罪受刑人20,974人，占全體56,086人的37.4%；2025年新入監毒品罪受刑人則是5,385人，占全年36,589人的14.72%。兩個比例都正確，回答的問題卻不同。前者反映監獄在某一時點的收容結構；後者反映當年進入監獄的流量。",
+        "source_ids": [
+          "PC01",
+          "PC02"
+        ]
+      },
+      {
+        "heading": "毒品罪不全等於施用毒品",
+        "text": "2025年底毒品罪在監者中，製造、販賣、運輸合計18,137人，占86.5%；施用者2,194人，占10.5%。但當年毒品罪新入監者中，製賣運輸占47.3%，施用占43.3%。應避免把「近四成在監受刑人犯毒品罪」改寫成「近四成受刑人只因吸毒入監」。",
+        "source_ids": [
+          "PC03"
+        ]
+      },
+      {
+        "heading": "歷史比例的閱讀方法",
+        "text": "矯正署歷史彙編列示：1996年在監毒品罪比例56.4%，2000年41.2%、2005年40.5%、2010年42.9%、2015年47.4%。它顯示長期走勢並非單調增減，但不同時期制度、犯罪分類與版本均須交代。1998年採觀察勒戒、強制戒治等分流，2008年施用毒品附命戒癮治療緩起訴法制化，都會改變哪些人進入監獄；僅見監獄比例下降，不能直接推出社會中用藥人口同比例下降。",
+        "source_ids": [
+          "PC06",
+          "PC19"
+        ]
+      },
+      {
+        "heading": "不能只寫一個沒有定義的再犯率",
+        "text": "截至2025年底，2021至2023年出獄的毒品罪受刑人21,265人，均有完整兩年追蹤，其中7,436人符合官方再犯罪定義，占35.0%。這個分子包括起訴後有罪確定、緩起訴確定及職權不起訴確定；原表不限定再犯毒品罪。它不是「35%再次吸毒」，也不是「35%再次入監」。逐年完整隊列為2021年33.0%、2022年35.4%、2023年37.7%。2024和2025年出獄組尚未追蹤滿兩年，不能用其較低比例宣稱改革成功。",
+        "source_ids": [
+          "PC04"
+        ]
+      },
+      {
+        "heading": "查緝毒販成果要用對欄位",
+        "text": "2024年警察查獲的全部毒品嫌疑人為37,854；其中純販賣欄5,135人，另有製造288、運輸579、意圖販賣而持有891人。四項供應端指標合计6,893人。2023年相應販賣欄為5,057人。2025年全部毒品嫌疑人47,322，這個總數不能稱為逮捕47,322名毒販。2024年嫌疑人與同年21,870名有罪確定者也不是同一批人，兩者相除沒有定罪率意義。",
+        "source_ids": [
+          "PC07",
+          "PC08",
+          "PC10"
+        ]
+      },
+      {
+        "heading": "大案應該教會學生哪些事？",
+        "text": "代表性大案可以呈現毒品種類、跨境供應與危害，但不能變成煽情排行榜。2002年的海洛因、2003年的搖頭丸、2016年的古柯鹼，以及2024、2025年的依托咪酯案件，顯示毒品供應型態並不固定。每一案都應附事件日期、查扣物的計量口徑及程序階段。飛燕號案尤其適合說明：同一批物品的驗前淨重與純質淨重不相同，二審宣判且得上訴，也不等於定讞。",
+        "source_ids": [
+          "PC11",
+          "PC15",
+          "PC16",
+          "PC17"
+        ]
+      }
+    ],
+    "limitations": [
+      "本組監獄歷史資料採基準年，不提供看似完整卻未統一版本之1996–2025逐年長列；2016–2021年底在監比例留待單一完整年報重建。",
+      "矯政期刊歷史表與近年法務部表屬不同版本，歷史端未核清所有地域與追溯修訂差異；不可為圖表連續美觀而忽略此點。",
+      "未核得2025全年純販賣嫌疑人細項，也未核得同一查獲隊列之起訴、定罪追蹤率；不自行估算。",
+      "新入監、期末在監與新入勒戒／戒治所不能混在一欄。2025摘要的勒戒、戒治數字僅可作其他處遇另表，不加進受刑人分母。",
+      "重大案件是代表性選例，並未涵蓋所有重大案件；未確認終局判決者明確標為查獲或起訴。",
+      "個案市值、可供幾人施用與「幾次會上癮」宣傳性推算不納入本資料；健康結論應另外採醫學來源。",
+      "2024全年警方嫌疑人初步月報38095，後續年報37854；此處採後續年報，避免把不同版本誤當不同定義。"
+    ]
+  },
+  "health": {
+    "sources": [
+      {
+        "id": "G01",
+        "title": "UNODC《World Drug Report 2026》官方發布",
+        "url": "https://egypt.un.org/en/318232-unodc-world-drug-report-2026-global-drug-markets-transforming-rapidly-technology-novel-drug",
+        "published": "2026-06-26",
+        "locator": "第5段（2024年使用估計）；Cannabis段落",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "G02",
+        "title": "UNODC 2026資料入口：年度使用與區域差異",
+        "url": "https://data.unodc.org/wdr2026search?f%5B0%5D=wdr_2026_topic%3A1193&page=2",
+        "published": "2026",
+        "locator": "Global opioid use／Cannabis remains…",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "G03",
+        "title": "美國SAMHSA：2024 NSDUH發布說明",
+        "url": "https://www.samhsa.gov/blog/release-2024-nsduh-leveraging-latest-substance-use-mental-health-data-make-america-healthy-again",
+        "published": "2025",
+        "locator": "Figure 2；12歲以上過去一年非法藥物使用",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "G04",
+        "title": "澳洲AIHW：Illicit drug use",
+        "url": "https://www.aihw.gov.au/reports/illicit-use-of-drugs/illicit-drug-use",
+        "published": "未標示",
+        "locator": "How common is illicit drug use?；Figure 1",
+        "checked": "2026-10-06",
+        "updated": "2026-04-28"
+      },
+      {
+        "id": "G05",
+        "title": "英格蘭與威爾斯ONS：Drug misuse YE March 2025",
+        "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/drugmisuseinenglandandwales/yearendingmarch2025",
+        "published": "2025-12-11",
+        "locator": "第1、2、7、8節",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "G06",
+        "title": "澳洲NDSHS資料品質聲明",
+        "url": "https://meteor.aihw.gov.au/content/789150/Print",
+        "published": "2024",
+        "locator": "範圍、抽樣與資料蒐集方法",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "G07",
+        "title": "SAMHSA 2024年度報告範圍",
+        "url": "https://www.samhsa.gov/data/report/2024-nsduh-annual-national-report",
+        "published": "2025",
+        "locator": "12歲以上非機構平民人口",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "H01",
+        "title": "WHO：Opioid overdose",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/opioid-overdose/",
+        "published": "2025-08-29",
+        "locator": "Key facts；Risk factors；Emergency responses",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "H02",
+        "title": "食藥署：(甲基)安非他命",
+        "url": "https://www.fda.gov.tw/TC/siteListContent.aspx?id=27140&sid=10088",
+        "published": "2023-04-02",
+        "locator": "二、危害性",
+        "checked": "2026-10-06",
+        "updated": "2023-04-27"
+      },
+      {
+        "id": "H03",
+        "title": "食藥署：愷他命與膀胱傷害",
+        "url": "https://www.fda.gov.tw/TC/newsContent.aspx?id=22843",
+        "published": "2018-03-09",
+        "locator": "解答(2)、(3)",
+        "checked": "2026-10-06",
+        "updated": "2022-01-05"
+      },
+      {
+        "id": "H04",
+        "title": "CDC：Cannabis use disorder",
+        "url": "https://www.cdc.gov/cannabis/health-effects/cannabis-use-disorder.html",
+        "published": "2024-12-05",
+        "locator": "依賴與高THC風險",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "H05",
+        "title": "法務部：大麻",
+        "url": "https://antidrug.moj.gov.tw/fp-25-268-1.html",
+        "published": "2016-10-18",
+        "locator": "二、危害性；現行級別另以法規查核",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "H06",
+        "title": "NIDA：MDMA (Ecstasy/Molly)",
+        "url": "https://nida.nih.gov/Infofacts/clubdrugs.html",
+        "published": "2024-04",
+        "locator": "Highlights；健康影響",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "H07",
+        "title": "NIDA：常見物質健康風險表",
+        "url": "https://nida.nih.gov/sites/default/files/cadchart.pdf",
+        "published": "原文件未標確切日期",
+        "locator": "MDMA、Cocaine、LSD、鎮靜劑欄；僅摘健康風險，不重製使用方法",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "H08",
+        "title": "WHO：Substance use risk",
+        "url": "https://www.emro.who.int/mhps/substance_use_risks.html",
+        "published": "未標示",
+        "locator": "Cocaine；Sedatives",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "H09",
+        "title": "食藥署：鎮靜安眠藥5不4要",
+        "url": "https://www.fda.gov.tw/tc/PublishOtherEpaperContent.aspx?id=1490&r=905668661&tid=4593",
+        "published": "2024-01-05",
+        "locator": "藥物食品安全週報955期",
+        "checked": "2026-10-06",
+        "updated": null
+      },
+      {
+        "id": "H10",
+        "title": "四民衛生所：正確使用鎮靜安眠藥五能力",
+        "url": "https://www.suminphc.taichung.gov.tw/981697/981726/2268967/2988360",
+        "published": "2026-08-19",
+        "locator": "常見副作用；勿自行停藥",
+        "checked": "2026-10-06",
+        "updated": "2026-08-19"
+      },
+      {
+        "id": "H11",
+        "title": "法務部：依託咪酯",
+        "url": "https://antidrug.moj.gov.tw/cp-1212-9648-2.html",
+        "published": "2026-06-11",
+        "locator": "身心危害；現行第一級",
+        "checked": "2026-10-06",
+        "updated": null
+      },
+      {
+        "id": "H12",
+        "title": "食藥署：藥物濫用防制Q&A",
+        "url": "https://www.fda.gov.tw/TC/siteContent.aspx?sid=140",
+        "published": "2022-07-18",
+        "locator": "Q1混合與偽裝；Q2拒絕技巧",
+        "checked": "2026-10-06",
+        "updated": "2023-04-19"
+      },
+      {
+        "id": "H13",
+        "title": "WHO：青少年與青年健康",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/adolescents-health-risks-and-solutions",
+        "published": "2024-11-26",
+        "locator": "Alcohol and drug use",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "T01",
+        "title": "WHO／UNODC：International standards for treatment",
+        "url": "https://www.unodc.org/documents/drug-prevention-and-treatment/UNODC-WHO_International_Standards_Treatment_Drug_Use_Disorders_April_2020.pdf",
+        "published": "2020",
+        "locator": "Chapter 2倫理與照護原則；Chapter 4治療",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "T02",
+        "title": "WHO：鴉片類依賴治療指引更新說明",
+        "url": "https://www.who.int/news/item/09-02-2025-who-updates-guidelines-on-opioid-dependence-treatment-and-overdose-prevention",
+        "published": "2025-02-09",
+        "locator": "現行建議及更新流程；不是新版指引已完成",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "T03",
+        "title": "WHO：興奮劑依賴心理社會治療",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/treatment-care/mental-health-gap-action-programme/evidence-centre/drug-use-disorders/psychosocial-support-for-the-management-of-psychostimulant-use-disorders",
+        "published": "2023",
+        "locator": "2023 updated recommendations",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "T04",
+        "title": "WHO：簡短心理社會介入",
+        "url": "https://www.who.int/teams/mental-health-and-substance-use/treatment-care/mental-health-gap-action-programme/evidence-centre/drug-use-disorders/brief-psychosocial-interventions",
+        "published": "2023",
+        "locator": "2023 updated；成人大麻／興奮劑",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "T05",
+        "title": "衛福部：成癮需要專業治療、長期心理社會復健",
+        "url": "https://mohw.gov.tw/cp-2704-19029-1.html",
+        "published": "2016-06-13",
+        "locator": "多元長期治療原則；不引用舊機構數",
+        "checked": "2026-10-06",
+        "updated": "2016-06-13"
+      },
+      {
+        "id": "T06",
+        "title": "衛福部115年度藥癮治療費用補助方案",
+        "url": "https://dep.mohw.gov.tw/DOMHAOH/cp-509-84406-107.html",
+        "published": "2025-11-05",
+        "locator": "2026年度說明及附件；依院所核定資格",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "T07",
+        "title": "衛福部：諮詢服务專線",
+        "url": "https://www.mohw.gov.tw/fp-23-135-1.html",
+        "published": "持續更新",
+        "locator": "心理健康司：0800-770-885、24小時",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "T08",
+        "title": "消防署：民眾版成人心肺復甦術",
+        "url": "https://www.nfa.gov.tw/cht/index.php?article_id=905&code=list&flag=detail&ids=21",
+        "published": "2017",
+        "locator": "119與意識、呼吸評估",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "T09",
+        "title": "WHO：維持鴉片類促效劑治療為必要健康服務",
+        "url": "https://www.who.int/news/item/16-12-2025-who-s-new-guidance-on-maintaining-opioid-agonist-maintenance-treatment-as-an-essential-health-service",
+        "published": "2025-12-16",
+        "locator": "服務持續性",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "H14",
+        "title": "美國DEA：Cocaine factsheet",
+        "url": "https://www.dea.gov/factsheets/cocaine",
+        "published": "原頁未標示",
+        "locator": "健康影響與過量風險",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "H15",
+        "title": "美國FDA：Benzodiazepine類藥品加框警語",
+        "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-requiring-boxed-warning-updated-improve-safe-use-benzodiazepine-drug-class",
+        "published": "2020-09-23",
+        "locator": "生理依賴、成癮及戒斷分別說明",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "H16",
+        "title": "Health Canada：LSD",
+        "url": "https://www.canada.ca/en/health-canada/services/substance-use/controlled-illegal-drugs/lsd.html",
+        "published": "2023-02-08",
+        "locator": "健康風險、持續知覺與依賴",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "H17",
+        "title": "DailyMed：Etomidate醫療藥品標示",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4312e3c3-34de-4cb3-8abd-c24d24a4bea1",
+        "published": "現行標示",
+        "locator": "腎上腺皮質功能抑制；不提供給學生自行用藥",
+        "checked": "2026-10-06"
+      },
+      {
+        "id": "H18",
+        "title": "EUDA：新興精神活性物質與健康社會回應",
+        "url": "https://www.euda.europa.eu/publications/mini-guides/catalogue/new-psychoactive-substances-health-and-social-responses",
+        "published": "現行網頁",
+        "locator": "定義與物質、產品區別",
+        "checked": "2026-10-06"
+      }
+    ],
+    "drugs": [
+      {
+        "id": "opioids",
+        "name": "鴉片類：海洛因、芬太尼",
+        "group": "抑制／鴉片類",
+        "tag": "呼吸與過量風險",
+        "effect": "作用於鴉片受體，可能出現鎮靜、反應變慢與嗜睡。部分鴉片類有合法醫療用途；醫療處方與非醫療使用的情境不同。",
+        "risk": "可造成呼吸抑制、昏迷及致命過量。和酒精或鎮靜藥物混用更危險；停止一段時間後耐受性下降，也會增加再使用時的過量風險。",
+        "dependence": "可形成依賴與戒斷；治療有實證藥物與心理社會支持。不要自行安排戒斷或使用他人的處方。",
+        "sources": [
+          "H01",
+          "T02"
+        ]
+      },
+      {
+        "id": "meth",
+        "name": "安非他命／甲基安非他命",
+        "group": "興奮劑",
+        "tag": "心血管、睡眠與精神健康",
+        "effect": "提高中樞神經活性，可能短暫掩蓋疲勞，但不是安全的讀書或工作增效方法。本段討論非醫療使用，不能與依醫囑服藥混為一談。",
+        "risk": "心跳與體溫上升、失眠、焦慮；反覆使用可能伴隨幻覺、妄想及情緒失調。不能用外觀或精神狀態判定一個人是否使用。",
+        "dependence": "可出現強烈渴求、失控使用及停用後疲倦、低落；應接受成癮與精神健康的共同評估。",
+        "sources": [
+          "H02",
+          "T03"
+        ]
+      },
+      {
+        "id": "ketamine",
+        "name": "愷他命（K他命）",
+        "group": "解離／麻醉類",
+        "tag": "泌尿道傷害",
+        "effect": "具有麻醉與解離作用，會改變知覺、方向感與記憶；醫療使用須由專業人員監督。",
+        "risk": "過量使用可能造成意識不清、呼吸減慢；長期非醫療使用可損傷膀胱與腎臟，出現頻尿、血尿或疼痛。沒有症狀不等於沒有傷害。",
+        "dependence": "可形成成癮與心理渴求；尿路症狀和使用問題都需要就醫，不能只處理疼痛而忽略成癮。",
+        "sources": [
+          "H03"
+        ]
+      },
+      {
+        "id": "cannabis",
+        "name": "大麻／THC",
+        "group": "大麻素",
+        "tag": "注意力、知覺與依賴",
+        "effect": "影響知覺、時間感與注意力。植物來源不代表沒有健康風險；各地法律不同也不代表健康風險消失。",
+        "risk": "可能出現心跳加快、焦慮、妄想或幻覺。THC濃度及產品差異會改變風險，青少年尤其需要審慎。",
+        "dependence": "部分使用者會發展為大麻使用疾患，持續使用即使已傷害生活；心理社會介入與專業評估可協助。",
+        "sources": [
+          "H04",
+          "H05",
+          "T04"
+        ]
+      },
+      {
+        "id": "mdma",
+        "name": "MDMA（俗稱搖頭丸）",
+        "group": "興奮／知覺改變",
+        "tag": "體溫與不明成分",
+        "effect": "兼有興奮與知覺改變作用；市售俗稱、錠劑圖案不能證明化學成分。",
+        "risk": "可能體溫過高、心跳血壓上升、焦慮及記憶問題。臨床研究中的藥物與監測不能套用到來路不明產品。",
+        "dependence": "可有渴求與使用問題。任何「純的就安全」說法都缺乏個人風險評估。",
+        "sources": [
+          "H06",
+          "H07",
+          "H12"
+        ]
+      },
+      {
+        "id": "cocaine",
+        "name": "古柯鹼（可卡因）",
+        "group": "興奮劑",
+        "tag": "心血管急症",
+        "effect": "強烈刺激中樞神經，可能造成短暫亢奮、警覺與衝動。",
+        "risk": "心血管毒性、心律不整及中風等急性風險；即使自覺狀態良好，也不能排除嚴重併發症。",
+        "dependence": "可產生強烈渴求與依賴。WHO建議提供認知行為治療及增強式管理等心理社會介入。",
+        "sources": [
+          "H08",
+          "T03",
+          "H14"
+        ]
+      },
+      {
+        "id": "sedatives",
+        "name": "鎮靜安眠藥的非醫療使用",
+        "group": "抑制劑",
+        "tag": "處方藥也須正確使用",
+        "effect": "影響警覺、協調與記憶。治療失眠或焦慮的處方應由醫師評估，不共享藥品。",
+        "risk": "不當使用可造成嗜睡、記憶和反應受損；與其他抑制物質混用危險增加。",
+        "dependence": "部分鎮靜安眠藥，尤其苯二氮平類，即使依處方使用，也可能形成生理依賴；生理依賴不等於成癮。突然停藥可能引發嚴重戒斷。正在服用者先和醫師討論，不自行增減或突然停藥。",
+        "sources": [
+          "H09",
+          "H10",
+          "H01",
+          "H15"
+        ]
+      },
+      {
+        "id": "etomidate",
+        "name": "依托咪酯（Etomidate）",
+        "group": "抑制／麻醉類",
+        "tag": "2026法律更新另列",
+        "effect": "原為專業醫療使用的麻醉物質；不明煙彈或其他產品可能含此類物質，外觀無法判定。",
+        "risk": "意識混亂、肌肉抽動及內分泌傷害；抑制腎上腺功能可導致低血壓、低血糖甚至休克。",
+        "dependence": "反覆非醫療使用須由醫療團隊評估。切勿把新聞俗稱當成人的標籤；應描述物質與傷害。",
+        "sources": [
+          "H11",
+          "H17"
+        ]
+      },
+      {
+        "id": "nps",
+        "name": "新興精神活性物質／混合產品",
+        "group": "新興／混合",
+        "tag": "成分與交互作用未知",
+        "effect": "新興精神活性物質與混合產品不是同義詞，混合產品也可能含既有毒品。所謂咖啡包、糖果或煙彈描述的是包裝，不是成分；不同化學類別的作用也不同。",
+        "risk": "一包可混有多種物質，濃度與交互作用不明；看包裝、聞味道或依朋友經驗，都不能確定安全。",
+        "dependence": "風險取決於實際物質；新名稱不等於合法或無成癮性。不接受來路不明食品、飲料或藥物。",
+        "sources": [
+          "H12",
+          "H18"
+        ]
+      },
+      {
+        "id": "lsd",
+        "name": "LSD等致幻物質",
+        "group": "知覺改變",
+        "tag": "知覺與判斷風險",
+        "effect": "可能顯著改變感官、情緒與現實感。研究環境與非醫療情境不能混為一談。",
+        "risk": "恐慌、混亂、判斷受損；部分人可能出現持續或反覆的知覺問題。",
+        "dependence": "不同物質的依賴潛力不同，但「較少典型戒斷」不等於沒有心理或急性健康風險。",
+        "sources": [
+          "H07",
+          "H16"
+        ]
+      }
+    ],
+    "treatment": [
+      {
+        "title": "先理解問題，再選擇照護",
+        "body": "評估使用的物質、身心狀況、家庭與生活需求，與本人共同制定目標。成癮不是道德失敗，也沒有適用所有人的單一療程；尊重、知情同意與保密界線是照護的一部分。",
+        "sources": [
+          "T01",
+          "T05"
+        ]
+      },
+      {
+        "title": "鴉片類：實證藥物搭配支持",
+        "body": "美沙冬、丁基原啡因等維持治療可協助降低非醫療使用、死亡與感染風險，並改善留在治療中的機會。選擇與監測由醫師負責；WHO強調服務不中斷。這不是自行換藥或戒斷指南。",
+        "sources": [
+          "T02",
+          "T09"
+        ]
+      },
+      {
+        "title": "興奮劑：心理社會治療很重要",
+        "body": "WHO 2023建議提供認知行為治療（辨識誘發情境、建立因應方法）與增強式管理（以明確正向回饋支持治療目標）。同時處理睡眠、焦慮或精神症狀；不能把某種鴉片類療法直接套到所有毒品。",
+        "sources": [
+          "T03"
+        ]
+      },
+      {
+        "title": "早期介入與轉介",
+        "body": "對成人大麻或興奮劑使用，WHO建議篩檢、個別回饋、簡短介入及追蹤；未改善或風險高者轉介專業服務。兒少應接受符合年齡與家庭需求的專業評估，成人建議不可直接當成兒少處方。",
+        "sources": [
+          "T04",
+          "T01"
+        ]
+      },
+      {
+        "title": "復元是一段可調整的過程",
+        "body": "除了醫療，家庭支持、心理照護、就學就業與穩定生活都可能是復元的一部分。再次使用表示需要重新評估照護，而不是證明一個人永遠無法改變。治療成效不能只用一次檢驗或是否入監來定義。",
+        "sources": [
+          "T01",
+          "T05"
+        ]
+      },
+      {
+        "title": "在台灣怎麼開始",
+        "body": "先聯絡所在地毒品危害防制中心，或向衛福部指定藥癮戒治機構詢問。2026年度有藥癮治療費用補助方案；資格、項目與額度依當年度規定及承辦機構確認，本教材不保證自動補助。",
+        "sources": [
+          "T06",
+          "T07"
+        ]
+      }
+    ],
+    "globalData": {
+      "year": 2024,
+      "age": "15–64歲",
+      "period": "過去12個月",
+      "total": 331000000,
+      "rate": 6.2,
+      "baseline": {
+        "year": 2014,
+        "rate": 5.2
+      },
+      "drugs": [
+        {
+          "name": "大麻",
+          "people": 256000000
+        },
+        {
+          "name": "鴉片類（非醫療使用）",
+          "people": 63000000
+        },
+        {
+          "name": "安非他命類",
+          "people": 32000000
+        },
+        {
+          "name": "古柯鹼",
+          "people": 25000000
+        },
+        {
+          "name": "MDMA／Ecstasy",
+          "people": 21000000
+        }
+      ],
+      "sources": [
+        "G01",
+        "G02"
+      ],
+      "note": "同一人可能使用多種物質，各類人數不可相加為總人數。估計不包含酒精與菸草；有資料缺口及估計不確定性。全球估計不是每個國家使用相同問卷的同步普查。"
+    },
+    "countries": [
+      {
+        "name": "美國",
+        "year": "2024",
+        "age": "12歲以上",
+        "period": "過去一年",
+        "rate": 25.5,
+        "people": "約7,360萬",
+        "scope": "非機構平民人口；包含大麻及處方藥非醫療使用",
+        "note": "選2024與全球資料年一致，年齡範圍仍不相同；不能直接排名。",
+        "sources": [
+          "G03",
+          "G07"
+        ]
+      },
+      {
+        "name": "澳洲",
+        "year": "2022–2023",
+        "age": "14歲以上",
+        "period": "過去12個月",
+        "rate": 18,
+        "people": "約390萬",
+        "scope": "私人住戶；非法物質、藥品非醫療使用及其他納入調查的精神活性物質",
+        "note": "年份、年齡與問卷範圍不同；18%是官方摘要四捨五入值。",
+        "sources": [
+          "G04",
+          "G06"
+        ]
+      },
+      {
+        "name": "英格蘭與威爾斯",
+        "year": "截至2025年3月之一年",
+        "age": "16–59歲",
+        "period": "過去12個月",
+        "rate": 8.7,
+        "people": "約290萬",
+        "scope": "住戶人口；不涵蓋監獄、遊民及部分團體住所",
+        "note": "不是全英國；2024起「任何毒品」納入笑氣，定義會變動。",
+        "sources": [
+          "G05"
+        ]
+      }
+    ],
+    "help": {
+      "number": "0800-770-885",
+      "hours": "24小時免費諮詢",
+      "emergency": "119",
+      "body": "若有人叫不醒、呼吸異常、抽搐或嚴重不適，立即撥119，依派遣員指示處理並告知已知情況。不要等待自行好轉。",
+      "sources": [
+        "T07",
+        "T08",
+        "H01"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "G01",
+      "title": "UNODC《World Drug Report 2026》官方發布",
+      "url": "https://egypt.un.org/en/318232-unodc-world-drug-report-2026-global-drug-markets-transforming-rapidly-technology-novel-drug",
+      "published": "2026-06-26",
+      "locator": "第5段（2024年使用估計）；Cannabis段落",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "G02",
+      "title": "UNODC 2026資料入口：年度使用與區域差異",
+      "url": "https://data.unodc.org/wdr2026search?f%5B0%5D=wdr_2026_topic%3A1193&page=2",
+      "published": "2026",
+      "locator": "Global opioid use／Cannabis remains…",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "G03",
+      "title": "美國SAMHSA：2024 NSDUH發布說明",
+      "url": "https://www.samhsa.gov/blog/release-2024-nsduh-leveraging-latest-substance-use-mental-health-data-make-america-healthy-again",
+      "published": "2025",
+      "locator": "Figure 2；12歲以上過去一年非法藥物使用",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "G04",
+      "title": "澳洲AIHW：Illicit drug use",
+      "url": "https://www.aihw.gov.au/reports/illicit-use-of-drugs/illicit-drug-use",
+      "published": "未標示",
+      "locator": "How common is illicit drug use?；Figure 1",
+      "checked": "2026-10-06",
+      "updated": "2026-04-28"
+    },
+    {
+      "id": "G05",
+      "title": "英格蘭與威爾斯ONS：Drug misuse YE March 2025",
+      "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/drugmisuseinenglandandwales/yearendingmarch2025",
+      "published": "2025-12-11",
+      "locator": "第1、2、7、8節",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "G06",
+      "title": "澳洲NDSHS資料品質聲明",
+      "url": "https://meteor.aihw.gov.au/content/789150/Print",
+      "published": "2024",
+      "locator": "範圍、抽樣與資料蒐集方法",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "G07",
+      "title": "SAMHSA 2024年度報告範圍",
+      "url": "https://www.samhsa.gov/data/report/2024-nsduh-annual-national-report",
+      "published": "2025",
+      "locator": "12歲以上非機構平民人口",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "H01",
+      "title": "WHO：Opioid overdose",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/opioid-overdose/",
+      "published": "2025-08-29",
+      "locator": "Key facts；Risk factors；Emergency responses",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "H02",
+      "title": "食藥署：(甲基)安非他命",
+      "url": "https://www.fda.gov.tw/TC/siteListContent.aspx?id=27140&sid=10088",
+      "published": "2023-04-02",
+      "locator": "二、危害性",
+      "checked": "2026-10-06",
+      "updated": "2023-04-27"
+    },
+    {
+      "id": "H03",
+      "title": "食藥署：愷他命與膀胱傷害",
+      "url": "https://www.fda.gov.tw/TC/newsContent.aspx?id=22843",
+      "published": "2018-03-09",
+      "locator": "解答(2)、(3)",
+      "checked": "2026-10-06",
+      "updated": "2022-01-05"
+    },
+    {
+      "id": "H04",
+      "title": "CDC：Cannabis use disorder",
+      "url": "https://www.cdc.gov/cannabis/health-effects/cannabis-use-disorder.html",
+      "published": "2024-12-05",
+      "locator": "依賴與高THC風險",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "H05",
+      "title": "法務部：大麻",
+      "url": "https://antidrug.moj.gov.tw/fp-25-268-1.html",
+      "published": "2016-10-18",
+      "locator": "二、危害性；現行級別另以法規查核",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "H06",
+      "title": "NIDA：MDMA (Ecstasy/Molly)",
+      "url": "https://nida.nih.gov/Infofacts/clubdrugs.html",
+      "published": "2024-04",
+      "locator": "Highlights；健康影響",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "H07",
+      "title": "NIDA：常見物質健康風險表",
+      "url": "https://nida.nih.gov/sites/default/files/cadchart.pdf",
+      "published": "原文件未標確切日期",
+      "locator": "MDMA、Cocaine、LSD、鎮靜劑欄；僅摘健康風險，不重製使用方法",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "H08",
+      "title": "WHO：Substance use risk",
+      "url": "https://www.emro.who.int/mhps/substance_use_risks.html",
+      "published": "未標示",
+      "locator": "Cocaine；Sedatives",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "H09",
+      "title": "食藥署：鎮靜安眠藥5不4要",
+      "url": "https://www.fda.gov.tw/tc/PublishOtherEpaperContent.aspx?id=1490&r=905668661&tid=4593",
+      "published": "2024-01-05",
+      "locator": "藥物食品安全週報955期",
+      "checked": "2026-10-06",
+      "updated": null
+    },
+    {
+      "id": "H10",
+      "title": "四民衛生所：正確使用鎮靜安眠藥五能力",
+      "url": "https://www.suminphc.taichung.gov.tw/981697/981726/2268967/2988360",
+      "published": "2026-08-19",
+      "locator": "常見副作用；勿自行停藥",
+      "checked": "2026-10-06",
+      "updated": "2026-08-19"
+    },
+    {
+      "id": "H11",
+      "title": "法務部：依託咪酯",
+      "url": "https://antidrug.moj.gov.tw/cp-1212-9648-2.html",
+      "published": "2026-06-11",
+      "locator": "身心危害；現行第一級",
+      "checked": "2026-10-06",
+      "updated": null
+    },
+    {
+      "id": "H12",
+      "title": "食藥署：藥物濫用防制Q&A",
+      "url": "https://www.fda.gov.tw/TC/siteContent.aspx?sid=140",
+      "published": "2022-07-18",
+      "locator": "Q1混合與偽裝；Q2拒絕技巧",
+      "checked": "2026-10-06",
+      "updated": "2023-04-19"
+    },
+    {
+      "id": "H13",
+      "title": "WHO：青少年與青年健康",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/adolescents-health-risks-and-solutions",
+      "published": "2024-11-26",
+      "locator": "Alcohol and drug use",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "T01",
+      "title": "WHO／UNODC：International standards for treatment",
+      "url": "https://www.unodc.org/documents/drug-prevention-and-treatment/UNODC-WHO_International_Standards_Treatment_Drug_Use_Disorders_April_2020.pdf",
+      "published": "2020",
+      "locator": "Chapter 2倫理與照護原則；Chapter 4治療",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "T02",
+      "title": "WHO：鴉片類依賴治療指引更新說明",
+      "url": "https://www.who.int/news/item/09-02-2025-who-updates-guidelines-on-opioid-dependence-treatment-and-overdose-prevention",
+      "published": "2025-02-09",
+      "locator": "現行建議及更新流程；不是新版指引已完成",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "T03",
+      "title": "WHO：興奮劑依賴心理社會治療",
+      "url": "https://www.who.int/teams/mental-health-and-substance-use/treatment-care/mental-health-gap-action-programme/evidence-centre/drug-use-disorders/psychosocial-support-for-the-management-of-psychostimulant-use-disorders",
+      "published": "2023",
+      "locator": "2023 updated recommendations",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "T04",
+      "title": "WHO：簡短心理社會介入",
+      "url": "https://www.who.int/teams/mental-health-and-substance-use/treatment-care/mental-health-gap-action-programme/evidence-centre/drug-use-disorders/brief-psychosocial-interventions",
+      "published": "2023",
+      "locator": "2023 updated；成人大麻／興奮劑",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "T05",
+      "title": "衛福部：成癮需要專業治療、長期心理社會復健",
+      "url": "https://mohw.gov.tw/cp-2704-19029-1.html",
+      "published": "2016-06-13",
+      "locator": "多元長期治療原則；不引用舊機構數",
+      "checked": "2026-10-06",
+      "updated": "2016-06-13"
+    },
+    {
+      "id": "T06",
+      "title": "衛福部115年度藥癮治療費用補助方案",
+      "url": "https://dep.mohw.gov.tw/DOMHAOH/cp-509-84406-107.html",
+      "published": "2025-11-05",
+      "locator": "2026年度說明及附件；依院所核定資格",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "T07",
+      "title": "衛福部：諮詢服务專線",
+      "url": "https://www.mohw.gov.tw/fp-23-135-1.html",
+      "published": "持續更新",
+      "locator": "心理健康司：0800-770-885、24小時",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "T08",
+      "title": "消防署：民眾版成人心肺復甦術",
+      "url": "https://www.nfa.gov.tw/cht/index.php?article_id=905&code=list&flag=detail&ids=21",
+      "published": "2017",
+      "locator": "119與意識、呼吸評估",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "T09",
+      "title": "WHO：維持鴉片類促效劑治療為必要健康服務",
+      "url": "https://www.who.int/news/item/16-12-2025-who-s-new-guidance-on-maintaining-opioid-agonist-maintenance-treatment-as-an-essential-health-service",
+      "published": "2025-12-16",
+      "locator": "服務持續性",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "H14",
+      "title": "美國DEA：Cocaine factsheet",
+      "url": "https://www.dea.gov/factsheets/cocaine",
+      "published": "原頁未標示",
+      "locator": "健康影響與過量風險",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "H15",
+      "title": "美國FDA：Benzodiazepine類藥品加框警語",
+      "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-requiring-boxed-warning-updated-improve-safe-use-benzodiazepine-drug-class",
+      "published": "2020-09-23",
+      "locator": "生理依賴、成癮及戒斷分別說明",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "H16",
+      "title": "Health Canada：LSD",
+      "url": "https://www.canada.ca/en/health-canada/services/substance-use/controlled-illegal-drugs/lsd.html",
+      "published": "2023-02-08",
+      "locator": "健康風險、持續知覺與依賴",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "H17",
+      "title": "DailyMed：Etomidate醫療藥品標示",
+      "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4312e3c3-34de-4cb3-8abd-c24d24a4bea1",
+      "published": "現行標示",
+      "locator": "腎上腺皮質功能抑制；不提供給學生自行用藥",
+      "checked": "2026-10-06"
+    },
+    {
+      "id": "H18",
+      "title": "EUDA：新興精神活性物質與健康社會回應",
+      "url": "https://www.euda.europa.eu/publications/mini-guides/catalogue/new-psychoactive-substances-health-and-social-responses",
+      "published": "現行網頁",
+      "locator": "定義與物質、產品區別",
+      "checked": "2026-10-06"
+    },
+    {
+      "title": "94年犯罪狀況及其分析",
+      "publisher": "法務部",
+      "url": "https://www.moj.gov.tw/media/3604/71917545894.pdf?mediaDL=true",
+      "table": "表1-2-1／1-2-1-1 各級法院檢察署執行判決確定有罪人數",
+      "page": "PDF第20–21頁，書面第12–13頁",
+      "checked_date": "2026-10-06",
+      "id": "conv1996_2005"
+    },
+    {
+      "title": "104年犯罪狀況及其分析",
+      "publisher": "法務部",
+      "url": "https://www.moj.gov.tw/media/6784/711216353562.pdf?mediaDL=true",
+      "table": "表2-2-3 地方法院檢察署執行裁判確定有罪主要罪名",
+      "page": "書面113頁／PDF第141頁",
+      "checked_date": "2026-10-06",
+      "id": "conv2006_2015"
+    },
+    {
+      "title": "法務統計摘要114年1月",
+      "publisher": "法務部統計處",
+      "url": "https://www.rjsd.moj.gov.tw/rjsdweb/book/Book_File.ashx?chapter_id=671_16_3",
+      "table": "表5-4 執行毒品案件裁判確定有罪人數",
+      "page": "獨立表5-4",
+      "checked_date": "2026-10-06",
+      "id": "moj2024conv"
+    },
+    {
+      "title": "法務統計摘要115年1月",
+      "publisher": "法務部統計處",
+      "url": "https://www.rjsd.moj.gov.tw/RJSDWeb/book/Book_File.ashx?book_id=716_4",
+      "table": "表5-4 執行毒品案件裁判確定有罪人數",
+      "page": "書面16頁／PDF第17頁",
+      "checked_date": "2026-10-06",
+      "id": "moj2025conv"
+    },
+    {
+      "title": "內政統計通報100年第38週",
+      "publisher": "內政部統計處（資料：警政署）",
+      "url": "https://ws.moi.gov.tw/001/Upload/OldFile/site_node_file/5942/week10038.pdf",
+      "table": "表二 警察機關查獲毒品案件；表三 查獲毒品嫌疑犯人數",
+      "page": "第2–3頁",
+      "checked_date": "2026-10-06",
+      "id": "npa2003_2010"
+    },
+    {
+      "title": "警察機關查獲毒品概況（年度表）",
+      "publisher": "內政部警政署",
+      "url": "https://www.npa.gov.tw/ch/app/data/doc?detailNo=816231262132924416&module=wg063&type=s",
+      "table": "警察機關查獲毒品概況",
+      "page": "第1頁",
+      "checked_date": "2026-10-06",
+      "id": "npa2011_2025"
+    },
+    {
+      "title": "警察機關查獲毒品概況（含115年1–8月）",
+      "publisher": "內政部警政署",
+      "url": "https://www.npa.gov.tw/ch/app/data/doc?detailNo=816231387114795008&module=wg063&type=s",
+      "table": "警察機關查獲毒品概況",
+      "page": "第1頁",
+      "checked_date": "2026-10-06",
+      "id": "npa2014_2026"
+    },
+    {
+      "title": "警政統計通報115年第28週：114年警察機關查緝毒品概況",
+      "publisher": "內政部警政署統計室",
+      "published_date": "2026-07-08",
+      "url": "https://opdadm.moi.gov.tw/api/v1/no-auth/resource/api/dataset/90830D5C-1D93-4B54-883F-C2823857EE73/resource/6BC10535-8828-4C07-AC94-707CAB3369DD/download",
+      "landing_url": "https://data.gov.tw/dataset/177986",
+      "table": "表1–7",
+      "page": "第1–8頁",
+      "checked_date": "2026-10-06",
+      "id": "npa2025analysis"
+    },
+    {
+      "title": "藥物濫用案件暨檢驗統計資料【114年12月】",
+      "publisher": "衛生福利部／食品藥物管理署",
+      "table_date": "2026-02-28",
+      "url": "https://antidrug.moj.gov.tw/dl-3305-40e601ea-e527-4ac6-aa05-17b4fb057dba.html",
+      "landing_url": "https://antidrug.moj.gov.tw/lp-89-2.html",
+      "table": "表三 臺灣地區醫療院所通報藥物濫用者使用藥物之種類分布統計表",
+      "page": "書面第71頁",
+      "checked_date": "2026-10-06",
+      "id": "fda2025medical"
+    },
+    {
+      "title": "113年藥物濫用案件暨檢驗統計資料年報",
+      "publisher": "衛生福利部／食品藥物管理署",
+      "url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f638841168466181342&iid=13295&type=3",
+      "table": "表一、表二及圖一、圖二",
+      "page": "書面第4–8頁",
+      "checked_date": "2026-10-06",
+      "id": "fda2024annual"
+    },
+    {
+      "title": "103年全國物質使用調查結果報告",
+      "publisher": "衛生福利部食品藥物管理署／國立臺灣大學",
+      "url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f636694209301561800&iid=10072&type=3",
+      "table": "摘要及討論、非法藥物使用",
+      "page": "摘要書面第2頁／PDF第7頁；討論書面48頁／PDF第53頁",
+      "checked_date": "2026-10-06",
+      "id": "survey2014"
+    },
+    {
+      "title": "107年全國物質使用調查結果報告",
+      "publisher": "衛生福利部食品藥物管理署／國立臺灣大學",
+      "url": "https://www.fda.gov.tw/tc/includes/GetFile.ashx?id=f637616988367725887&iid=11814",
+      "table": "摘要；表6.1；表6.3；表7.1；表10.1",
+      "page": "書面第1–3、46、48、51、66頁；PDF頁碼加7",
+      "checked_date": "2026-10-06",
+      "id": "survey2018"
+    },
+    {
+      "title": "全國物質使用調查摘要表 A480B112",
+      "publisher": "行政院主計總處／衛生福利部",
+      "url": "https://enterprise.dgbas.gov.tw/STATSVY/Set/STATSVY/brief/A480B112.htm",
+      "table": "調查沿革、範圍與對象、抽樣方法",
+      "page": "網頁",
+      "checked_date": "2026-10-06",
+      "id": "survey2023plan"
+    },
+    {
+      "title": "115年毒品統計彙編（列印版）",
+      "publisher": "法務部（跨部會統計彙整）",
+      "published_date": "2026-09-10",
+      "url": "https://antidrug.moj.gov.tw/dl-3344-074fde0a-caea-4eb5-9679-76a301128758.html",
+      "landing_url": "https://antidrug.moj.gov.tw/cp-1252-9775-2.html",
+      "table": "圖2-2、表3-1、表3-3、圖4-1等",
+      "page": "各圖表另列",
+      "checked_date": "2026-10-06",
+      "id": "moj115"
+    },
+    {
+      "title": "依托咪酯正式升列第一級毒品",
+      "publisher": "內政部警政署刑事警察局",
+      "published_date": "2026-06-29",
+      "url": "https://www.npa.gov.tw/ch/app/news/view?id=2139&module=news&serno=cb212c20-f31b-4844-9943-541fefd25bb4",
+      "table": "公告內文",
+      "page": "網頁",
+      "checked_date": "2026-10-06",
+      "id": "etomidate2026"
+    },
+    {
+      "title": "新興毒品監測機制及先驅化學品管制對策（行政院毒品防制會報第4次專案報告）",
+      "publisher": "行政院衛生署食品藥物管理局",
+      "url": "https://www.fda.gov.tw/upload/133/%E6%A0%B8%E5%AE%9A_%E7%AC%AC4%E6%AC%A1%E9%98%B2%E6%AF%92%E7%B5%84%E5%B0%88%E6%A1%88%E5%A0%B1%E5%91%8A%E5%85%A7%E5%AE%B9990112_1.pdf",
+      "page": "書面6–7頁／PDF第6–7頁",
+      "table": "（三）監測調查研究計畫；表4",
+      "checked_date": "2026-10-06",
+      "id": "survey2005note"
+    },
+    {
+      "title": "犯罪狀況及其分析：毒品犯罪與勒戒經驗",
+      "publisher": "法務部司法官學院犯罪防治研究中心",
+      "url": "https://www.cprc.moj.gov.tw/media/8831/44251475339.pdf?mediaDL=true",
+      "page": "書面265頁",
+      "table": "（一）毒品犯罪與勒戒經驗",
+      "checked_date": "2026-10-06",
+      "id": "history1998"
+    },
+    {
+      "title": "管制藥品管理條例相關法規暨解釋彙編（100年1月）",
+      "publisher": "行政院衛生署食品藥物管理局",
+      "url": "https://www.fda.gov.tw/tc/includes/getfile.ashx?id=f636694195825790139",
+      "page": "書面80–81頁",
+      "table": "92年7月11日管證字第0920005399號函",
+      "checked_date": "2026-10-06",
+      "id": "ketamine2002"
+    },
+    {
+      "title": "105年至114年非尿液檢驗排名前5項成分統計",
+      "publisher": "法務部反毒大本營／食藥署",
+      "url": "https://antidrug.moj.gov.tw/Public/Charts/38/53-fbc527edc4354dba99b8605eedc6eafc.html",
+      "landing_url": "https://antidrug.moj.gov.tw/sp-cmcp-53-38-2.html",
+      "page": "互動圖資料",
+      "table": "非尿液檢驗排名前5項成分統計",
+      "checked_date": "2026-10-06",
+      "id": "nonurinechart"
+    },
+    {
+      "title": "108年犯罪狀況及其分析：第四篇數據",
+      "publisher": "法務部司法官學院",
+      "url": "https://www.cprc.moj.gov.tw/media/15468/4-1-%E7%AC%AC%E5%9B%9B%E7%AF%87-%E6%95%B8%E6%93%9A.pdf?mediaDL=true",
+      "locator": "PDF第13頁表4-3-1；第14頁表4-3-2，105–108年度",
+      "published": "108年度資料",
+      "checked_date": "2026-10-06",
+      "id": "conv2016_2019_cprc"
+    },
+    {
+      "title": "國家衛生研究院電子報：台灣精神作用性物質的現況",
+      "publisher": "國家衛生研究院",
+      "url": "https://enewse.nhri.edu.tw/jenews_ViewMore.php?indx=8121",
+      "locator": "非法藥物第1段；2005調查12–64歲終生盛行率1.2%",
+      "published": "2010-11-11",
+      "checked_date": "2026-10-06",
+      "id": "survey2005nhri"
+    },
+    {
+      "title": "法務統計摘要113年12月",
+      "publisher": "法務部統計處",
+      "url": "https://www.rjsd.moj.gov.tw/rjsdweb/book/Book_File.ashx?book_id=666_4",
+      "published": "2025-01-16編製",
+      "locator": "PDF第17頁／書面16頁，表5-4，109年總計33,031",
+      "checked_date": "2026-10-06",
+      "id": "conv2020_moj2024dec"
+    },
+    {
+      "id": "PC01",
+      "title": "法務部：監獄在監受刑人罪名",
+      "url": "https://www.rjsd.moj.gov.tw/RJSDWeb/common/WebList3_Report.aspx?list_id=772&menu=INF_COMMON_C",
+      "locator": "網頁表格111–114年底及115年8月底列；表下說明",
+      "checked_date": "2026-10-06",
+      "publication_date": null
+    },
+    {
+      "id": "PC02",
+      "title": "法務部：監獄新入監受刑人入監時罪名",
+      "url": "https://www.rjsd.moj.gov.tw/RJSDWeb/common/WebList3_Report.aspx?list_id=774&menu=INF_COMMON_C",
+      "locator": "網頁表格111–114年及115年1–8月列；表下說明",
+      "checked_date": "2026-10-06",
+      "publication_date": null
+    },
+    {
+      "id": "PC03",
+      "title": "法務部矯正署：114年12月毒品摘要",
+      "url": "https://www.mjac.moj.gov.tw/media/20715214/11412%E6%AF%92%E5%93%81%E6%91%98%E8%A6%81.pdf?mediaDL=true",
+      "locator": "印刷頁14：新入監、在監毒品受刑人圖與觀察勒戒及強制戒治圖",
+      "checked_date": "2026-10-06",
+      "publication_date": "2026",
+      "note": "搜尋引擎可讀完整單頁；直接PDF開啟有時逾時。"
+    },
+    {
+      "id": "PC04",
+      "title": "法務部：毒品罪受刑人出獄後2年內再犯罪情形",
+      "url": "https://www.rjsd.moj.gov.tw/RJSDWeb/common/WebList3_Report.aspx?list_id=1985&menu=INF_COMMON_C",
+      "locator": "表格110–114年列；說明1、2；統計截止日114年底",
+      "checked_date": "2026-10-06",
+      "publication_date": null
+    },
+    {
+      "id": "PC05",
+      "title": "法務部：受刑人出獄後2年內再犯罪情形",
+      "url": "https://www.rjsd.moj.gov.tw/RJSDWeb/common/WebList3_Report.aspx?list_id=1982&menu=INF_COMMON_C",
+      "locator": "表格110–114年列；說明1、2；統計截止日114年底",
+      "checked_date": "2026-10-06",
+      "publication_date": null
+    },
+    {
+      "id": "PC06",
+      "title": "矯政期刊第6卷第1期：從矯正機關收容人口結構之變化探討其因應之道",
+      "url": "https://www.mjac.moj.gov.tw/media/28207/73110472388.pdf",
+      "locator": "印刷頁39，附表九：在監受刑人犯罪類型分布情形（1993年至2015年）；資料註記整理自法務部統計年報及月報",
+      "checked_date": "2026-10-06",
+      "publication_date": "2017-01",
+      "note": "矯正署刊載之歷史統計彙編；本文擇取基準年，不冒充1996–2025逐年同一版本資料。"
+    },
+    {
+      "id": "PC07",
+      "title": "警政署：113年警政工作年報",
+      "url": "https://www.npa.gov.tw/ch/app/data/doc?detailNo=1452952881236807680&module=wg031&type=s",
+      "locator": "印刷頁42，表2-1：113年與112年查緝毒品犯罪成果比較",
+      "checked_date": "2026-10-06",
+      "publication_date": "2025",
+      "note": "使用年報版本；與113年12月即時月報初步數不同。"
+    },
+    {
+      "id": "PC08",
+      "title": "警政署：114年各案類嫌疑犯人數，按性別分",
+      "url": "https://www.npa.gov.tw/ch/app/data/doc?detailNo=816230917533102080&module=wg063&type=s",
+      "locator": "第1頁，總計列：違反毒品危害防制條例47,322；男40,003、女7,319",
+      "checked_date": "2026-10-06",
+      "publication_date": "2026"
+    },
+    {
+      "id": "PC09",
+      "title": "警政署：114年第50週警政統計通報",
+      "url": "https://www.npa.gov.tw/ch/app/data/doc?detailNo=1447851676311490560&module=wg057&type=s",
+      "locator": "第2頁二（三）：依托咪酯嫌疑犯按犯罪方法；第3頁表1說明7、8",
+      "checked_date": "2026-10-06",
+      "publication_date": "2025-12-10",
+      "note": "114年1–9月為初步數；不含行政罰案件。"
+    },
+    {
+      "id": "PC10",
+      "title": "司法官學院：113年犯罪狀況及其分析，第四篇",
+      "url": "https://www.cprc.moj.gov.tw/media/20215117/4-%E7%AC%AC%E5%9B%9B%E7%AF%87-%E7%89%B9%E5%AE%9A%E9%A1%9E%E5%9E%8B%E7%8A%AF%E7%BD%AA%E8%80%85%E4%B9%8B%E7%8A%AF%E7%BD%AA%E8%B6%A8%E5%8B%A2%E8%88%87%E8%99%95%E9%81%87.pdf?mediaDL=true",
+      "locator": "印刷頁163–164：第三章毒品犯罪者；參照表4-3-1、4-3-2",
+      "checked_date": "2026-10-06",
+      "publication_date": "2025"
+    },
+    {
+      "id": "PC11",
+      "title": "臺北地檢署：北檢緝毒實錄，緝毒專組工作績效大事紀（91年至107年）",
+      "url": "https://www.tpc.moj.gov.tw/media/85845/85119484642.pdf",
+      "locator": "印刷頁253（PDF第2頁）2002-09-25；255（第4頁）2003-05-21；287（第36頁）2016-12-01",
+      "checked_date": "2026-10-06",
+      "publication_date": "2018-05-10"
+    },
+    {
+      "id": "PC12",
+      "title": "法務部：全面緝毒作戰計畫記者會新聞稿",
+      "url": "https://www.moj.gov.tw/2204/2795/2796/53555/",
+      "locator": "跨國緝毒合作案例（1）：1996年開始發現線索，2005年緝捕陳姓跨國販毒嫌犯",
+      "checked_date": "2026-10-06",
+      "publication_date": "2005",
+      "note": "僅可作偵查沿革；此稿未交代終局判決。"
+    },
+    {
+      "id": "PC13",
+      "title": "屏東地檢署：歷年最大宗岸際海洛因案",
+      "url": "https://antidrug.moj.gov.tw/cp-1202-6153-1.html",
+      "locator": "正文第3、4點：107-11-19查扣1240塊約470公斤及10人到案",
+      "checked_date": "2026-10-06",
+      "publication_date": "2018",
+      "note": "涉及少年，報告僅保留事件層級數據，不列未成年人身分；不採稿內上癮次數及施用人次推算。"
+    },
+    {
+      "id": "PC14",
+      "title": "新北地檢署：檢警查獲陸上最大宗海洛因毒品並瓦解運輸販賣毒品犯罪組織",
+      "url": "https://antidrug.moj.gov.tw/dl-2969-ef2ac234-c9b2-4197-998d-0e030a0e3bf8.html",
+      "locator": "原始新聞稿PDF第1頁：2021-10-21、1172塊約446.8公斤；第2頁：11-23起訴7人",
+      "checked_date": "2026-10-06",
+      "publication_date": "2021-11-24",
+      "note": "附件以application/octet-stream提供；已下載PDF並以pdftotext核對。446.8公斤為當時新聞稿報告重量，不當成純質淨重。"
+    },
+    {
+      "id": "PC15",
+      "title": "臺灣高等法院高雄分院：113年度國上重訴字第1號毒品案新聞稿",
+      "url": "https://www.judicial.gov.tw/tw/dl-239428-aa3932e215724761b4614186762ba667.html",
+      "locator": "PDF第1頁主文、2–3頁犯罪事實和查扣重量、第4頁得上訴",
+      "checked_date": "2026-10-06",
+      "publication_date": "2025-06-05"
+    },
+    {
+      "id": "PC16",
+      "title": "橋頭地檢署：135公斤依托咪酯案偵結起訴",
+      "url": "https://www.qtc.moj.gov.tw/media/380399/1131127%E6%A9%8B%E6%AA%A2%E6%96%B0%E8%81%9E%E7%A8%BF-%E6%A9%8B%E6%AA%A2%E5%9F%B7%E8%A1%8C%E9%AB%98%E6%AA%A2%E7%BD%B2%E5%AE%89%E5%B1%85%E7%B7%9D%E6%AF%92%E5%B0%88%E6%A1%88-%E5%81%B5%E7%A0%B4%E5%85%A8%E8%87%BA%E7%81%A3%E6%9C%80%E5%A4%A7%E5%AE%97%E4%BE%9D%E6%89%98%E5%92%AA%E9%85%AF%E6%AF%92%E5%93%81%E6%A1%88-%E6%94%94%E4%B8%8B135%E5%85%AC%E6%96%A4%E5%B8%82%E5%80%BC%E7%B4%8427%E5%84%84%E5%85%83%E5%96%AA%E5%B1%8D%E8%8F%B8%E5%BD%88-%E5%81%B5%E7%B5%90%E8%B5%B7%E8%A8%B4%E8%A2%AB%E5%91%8A.pdf?mediaDL=true",
+      "locator": "PDF第1頁：簡要起訴事實與涉犯法條",
+      "checked_date": "2026-10-06",
+      "publication_date": "2024-11-27"
+    },
+    {
+      "id": "PC17",
+      "title": "橋頭地檢署：300公斤依托咪酯案",
+      "url": "https://www.qtc.moj.gov.tw/media/401086/1140610%E6%A9%8B%E6%AA%A2%E6%96%B0%E8%81%9E%E7%A8%BF-%E6%A9%8B%E9%A0%AD%E5%9C%B0%E6%AA%A2%E7%BD%B2%E5%86%8D%E5%89%B5%E7%B7%9D%E6%AF%92%E6%96%B0%E7%B4%80%E9%8C%84%E5%81%B5%E7%A0%B4%E5%85%A8%E5%8F%B0%E6%9C%80%E5%A4%A7%E5%AE%97%E7%AB%B9%E8%81%AF%E5%B9%AB%E6%98%8E%E4%BB%81%E6%9C%83%E8%B5%B0%E7%A7%81300%E5%85%AC%E6%96%A4%E5%96%AA%E5%B1%8D%E8%8F%B8%E6%AF%92%E6%A1%88.pdf?mediaDL=true",
+      "locator": "PDF第1頁：2025-01-27查獲300公斤；第2頁：2025-04-21起訴6人",
+      "checked_date": "2026-10-06",
+      "publication_date": "2025-06-10"
+    },
+    {
+      "id": "PC18",
+      "title": "桃園地檢署：起訴依托咪酯製毒工廠案",
+      "url": "https://www.tyc.moj.gov.tw/294079/294166/294168/1408767/post",
+      "locator": "正文：2026-02-11搜索、2026-06-15起訴公告、成品與前驅物分列",
+      "checked_date": "2026-10-06",
+      "publication_date": "2026-06-15"
+    },
+    {
+      "id": "PC19",
+      "title": "司法官學院犯罪防治研究中心：近20年來臺灣毒品犯罪趨勢與省思，1996–2015",
+      "url": "https://www.cprc.moj.gov.tw/media/7416/692914261770.pdf?mediaDL=true",
+      "locator": "簡報第2頁：1998、2008法律制度變化；第7頁：新入監有毒品前科比率",
+      "checked_date": "2026-10-06",
+      "publication_date": "2016",
+      "note": "第8頁年代區間有明顯文字錯置，不採用該段作逐年統計。"
+    },
+    {
+      "id": "PC20",
+      "title": "法務部：113年法務統計年報，監獄收容情形",
+      "url": "https://www.rjsd.moj.gov.tw/RJSDWeb/book/Book_File.ashx?chapter_id=683_8_1",
+      "locator": "印刷頁4-32：109–113年新入監受刑人前五大罪名表",
+      "checked_date": "2026-10-06",
+      "publication_date": "2025"
+    }
+  ]
+}
